@@ -8,27 +8,27 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [composer/composer](https://github.com/composer/composer) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 day ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.1.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.1.0) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.1](https://github.com/phpstan/phpstan/releases/tag/1.4.1) (today)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.0.8](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.0.8) (today)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [1.0.1](https://github.com/phpstan/phpstan-dibi/releases/tag/1.0.1) (1 day ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.1) (1 day ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.42](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.42) (4 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.1.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.1.0) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.1](https://github.com/phpstan/phpstan/releases/tag/1.4.1) (1 day ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.0.8](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.0.8) (1 day ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [1.0.1](https://github.com/phpstan/phpstan-dibi/releases/tag/1.0.1) (2 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.1) (2 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.42](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.42) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.0.6](https://github.com/Roave/BetterReflection/releases/tag/5.0.6) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.4](https://github.com/composer/composer/releases/tag/2.2.4) (1 week ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.12](https://github.com/rectorphp/rector/releases/tag/0.12.12) (1 week ago)
