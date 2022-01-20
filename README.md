@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.1](https://github.com/codemirror/CodeMirror/releases/tag/5.65.1) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.1.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.1.1) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.2](https://github.com/phpstan/phpstan/releases/tag/1.4.2) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.2](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.2) (2 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.42](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.42) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.4](https://github.com/composer/composer/releases/tag/2.2.4) (1 week ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.12](https://github.com/rectorphp/rector/releases/tag/0.12.12) (1 week ago)
-- [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) - [1.1.0](https://github.com/phpstan/phpstan-php-parser/releases/tag/1.1.0) (3 weeks ago)
 
 ---
 
