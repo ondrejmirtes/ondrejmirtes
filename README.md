@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) - [1.10.25](https://github.com/composer/composer/releases/tag/1.10.25) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.1) (today)
+- [composer/composer](https://github.com/composer/composer) - [2.2.5](https://github.com/composer/composer/releases/tag/2.2.5) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.43](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.43) (today)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.1](https://github.com/codemirror/CodeMirror/releases/tag/5.65.1) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.1.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.1.1) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.2](https://github.com/phpstan/phpstan/releases/tag/1.4.2) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.2](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.2) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.0.7](https://github.com/Roave/BetterReflection/releases/tag/5.0.7) (3 days ago)
