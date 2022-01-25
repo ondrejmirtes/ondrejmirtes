@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.14](https://github.com/rectorphp/rector/releases/tag/0.12.14) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.7](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.7) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.2.5](https://github.com/composer/composer/releases/tag/2.2.5) (4 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.43](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.43) (4 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.0.7](https://github.com/Roave/BetterReflection/releases/tag/5.0.7) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.0.8](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.0.8) (1 week ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [1.0.1](https://github.com/phpstan/phpstan-dibi/releases/tag/1.0.1) (1 week ago)
-- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.12](https://github.com/rectorphp/rector/releases/tag/0.12.12) (2 weeks ago)
 
 ---
 
