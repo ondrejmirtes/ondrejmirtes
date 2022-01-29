@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.3](https://github.com/phpstan/phpstan/releases/tag/1.4.3) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.8](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.8) (today)
-- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.15](https://github.com/rectorphp/rector/releases/tag/0.12.15) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.3](https://github.com/phpstan/phpstan/releases/tag/1.4.3) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.8](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.8) (1 day ago)
+- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.15](https://github.com/rectorphp/rector/releases/tag/0.12.15) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.5](https://github.com/composer/composer/releases/tag/2.2.5) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.43](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.43) (1 week ago)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.1](https://github.com/codemirror/CodeMirror/releases/tag/5.65.1) (1 week ago)
