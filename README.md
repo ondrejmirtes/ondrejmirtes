@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.3](https://github.com/phpstan/phpstan/releases/tag/1.4.3) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.4](https://github.com/phpstan/phpstan/releases/tag/1.4.4) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.8](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.8) (3 days ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.15](https://github.com/rectorphp/rector/releases/tag/0.12.15) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.5](https://github.com/composer/composer/releases/tag/2.2.5) (1 week ago)
