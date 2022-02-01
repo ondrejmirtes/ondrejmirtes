@@ -9,11 +9,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [ondrejmirtes/composer-issue](https://github.com/ondrejmirtes/composer-issue) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [ondrejmirtes/composer-issue](https://github.com/ondrejmirtes/composer-issue) (3 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
@@ -23,14 +23,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.4](https://github.com/phpstan/phpstan/releases/tag/1.4.4) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.8](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.8) (3 days ago)
-- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.15](https://github.com/rectorphp/rector/releases/tag/0.12.15) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.4](https://github.com/phpstan/phpstan/releases/tag/1.4.4) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.8](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.8) (4 days ago)
+- [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.15](https://github.com/rectorphp/rector/releases/tag/0.12.15) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.5](https://github.com/composer/composer/releases/tag/2.2.5) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.43](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.43) (1 week ago)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.1](https://github.com/codemirror/CodeMirror/releases/tag/5.65.1) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.2](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.2) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.0.7](https://github.com/Roave/BetterReflection/releases/tag/5.0.7) (1 week ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.2](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.2) (2 weeks ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.0.7](https://github.com/Roave/BetterReflection/releases/tag/5.0.7) (2 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.0.8](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.0.8) (2 weeks ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [1.0.1](https://github.com/phpstan/phpstan-dibi/releases/tag/1.0.1) (2 weeks ago)
 
