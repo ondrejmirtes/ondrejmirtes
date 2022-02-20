@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
@@ -25,7 +25,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.16](https://github.com/rectorphp/rector/releases/tag/0.12.16) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.10) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.6](https://github.com/phpstan/phpstan/releases/tag/1.4.6) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.6](https://github.com/phpstan/phpstan/releases/tag/1.4.6) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.5) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.6](https://github.com/composer/composer/releases/tag/2.2.6) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.47](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.47) (2 weeks ago)
