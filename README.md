@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [github/linguist](https://github.com/github/linguist) - [v7.19.0](https://github.com/github/linguist/releases/tag/v7.19.0) (today)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.2](https://github.com/codemirror/CodeMirror/releases/tag/5.65.2) (today)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.16](https://github.com/rectorphp/rector/releases/tag/0.12.16) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.10) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.47](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.47) (2 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.0.9](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.0.9) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.0.7](https://github.com/Roave/BetterReflection/releases/tag/5.0.7) (1 month ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [1.0.1](https://github.com/phpstan/phpstan-dibi/releases/tag/1.0.1) (1 month ago)
 
 ---
 
