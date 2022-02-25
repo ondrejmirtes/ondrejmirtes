@@ -10,9 +10,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (2 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 weeks ago)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.6) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.7) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.2.7](https://github.com/composer/composer/releases/tag/2.2.7) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.11) (2 days ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.0.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.0.1) (2 days ago)
