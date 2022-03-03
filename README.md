@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
-- [composer/composer](https://github.com/composer/composer) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
+- [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (3 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 weeks ago)
@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.1.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.1.0) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.7](https://github.com/phpstan/phpstan/releases/tag/1.4.7) (today)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.0.19](https://github.com/slevomat/coding-standard/releases/tag/7.0.19) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.2.0](https://github.com/Roave/BetterReflection/releases/tag/5.2.0) (3 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.7) (5 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.2.7](https://github.com/composer/composer/releases/tag/2.2.7) (5 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.1.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.1.0) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.7](https://github.com/phpstan/phpstan/releases/tag/1.4.7) (1 day ago)
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.0.19](https://github.com/slevomat/coding-standard/releases/tag/7.0.19) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.2.0](https://github.com/Roave/BetterReflection/releases/tag/5.2.0) (4 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.7) (6 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.2.7](https://github.com/composer/composer/releases/tag/2.2.7) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.11) (1 week ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.0.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.0.1) (1 week ago)
 - [github/linguist](https://github.com/github/linguist) - [v7.19.0](https://github.com/github/linguist/releases/tag/v7.19.0) (1 week ago)
