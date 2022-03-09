@@ -8,16 +8,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (4 weeks ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (4 weeks ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 month ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 month ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
 
 ---
 
