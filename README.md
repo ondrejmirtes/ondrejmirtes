@@ -8,11 +8,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (1 month ago)
@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.49](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.49) (today)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.1.2](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.1.2) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.9](https://github.com/phpstan/phpstan/releases/tag/1.4.9) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.49](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.49) (1 day ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.1.2](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.1.2) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.9](https://github.com/phpstan/phpstan/releases/tag/1.4.9) (2 days ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.17](https://github.com/rectorphp/rector/releases/tag/0.12.17) (1 week ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.0.19](https://github.com/slevomat/coding-standard/releases/tag/7.0.19) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.2.0](https://github.com/Roave/BetterReflection/releases/tag/5.2.0) (1 week ago)
