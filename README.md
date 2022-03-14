@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.10](https://github.com/phpstan/phpstan/releases/tag/1.4.10) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.49](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.49) (3 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.1.2](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.1.2) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.4.9](https://github.com/phpstan/phpstan/releases/tag/1.4.9) (4 days ago)
 - [rectorphp/rector](https://github.com/rectorphp/rector) - [0.12.17](https://github.com/rectorphp/rector/releases/tag/0.12.17) (1 week ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.0.19](https://github.com/slevomat/coding-standard/releases/tag/7.0.19) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.2.0](https://github.com/Roave/BetterReflection/releases/tag/5.2.0) (2 weeks ago)
