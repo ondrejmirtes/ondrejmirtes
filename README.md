@@ -10,6 +10,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [ondrejmirtes/composer-issue](https://github.com/ondrejmirtes/composer-issue) (1 day ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
@@ -17,12 +18,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 month ago)
 - [composer/composer](https://github.com/composer/composer) (1 month ago)
-- [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.3.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.3.0) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.0.20](https://github.com/slevomat/coding-standard/releases/tag/7.0.20) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.0](https://github.com/phpstan/phpstan/releases/tag/1.5.0) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.8) (4 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.1.2](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.1.2) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.2.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.11) (1 month ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.0.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.0.1) (1 month ago)
-- [github/linguist](https://github.com/github/linguist) - [v7.19.0](https://github.com/github/linguist/releases/tag/v7.19.0) (1 month ago)
 
 ---
 
