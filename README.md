@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.2.10](https://github.com/composer/composer/releases/tag/2.2.10) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.1.0](https://github.com/slevomat/coding-standard/releases/tag/7.1.0) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.4.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.4.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.2](https://github.com/phpstan/phpstan/releases/tag/1.5.2) (today)
@@ -30,7 +31,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.1.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.1.0) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.8) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.3.0](https://github.com/Roave/BetterReflection/releases/tag/5.3.0) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.0-RC2](https://github.com/composer/composer/releases/tag/2.3.0-RC2) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.49](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.49) (2 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.1.2](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.1.2) (2 weeks ago)
 
