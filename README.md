@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.3.3](https://github.com/composer/composer/releases/tag/2.3.3) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.50](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.50) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.3](https://github.com/phpstan/phpstan/releases/tag/1.5.3) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.1) (2 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.2](https://github.com/composer/composer/releases/tag/2.3.2) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.4.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.4.2) (2 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.1.0](https://github.com/slevomat/coding-standard/releases/tag/7.1.0) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.1.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.1.0) (4 days ago)
