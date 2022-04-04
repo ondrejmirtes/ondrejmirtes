@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [github/linguist](https://github.com/github/linguist) - [v7.20.0](https://github.com/github/linguist/releases/tag/v7.20.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.4](https://github.com/phpstan/phpstan/releases/tag/1.5.4) (1 day ago)
 - [marc-mabe/php-enum-phpstan](https://github.com/marc-mabe/php-enum-phpstan) - [v2.0.1](https://github.com/marc-mabe/php-enum-phpstan/releases/tag/v2.0.1) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.3](https://github.com/composer/composer/releases/tag/2.3.3) (3 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.1.0](https://github.com/slevomat/coding-standard/releases/tag/7.1.0) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.1.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.1.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.1.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.1.8) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.3.0](https://github.com/Roave/BetterReflection/releases/tag/5.3.0) (1 week ago)
 
 ---
 
