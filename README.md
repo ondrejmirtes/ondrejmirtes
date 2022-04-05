@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.2) (today)
 - [github/linguist](https://github.com/github/linguist) - [v7.20.0](https://github.com/github/linguist/releases/tag/v7.20.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.4](https://github.com/phpstan/phpstan/releases/tag/1.5.4) (2 days ago)
 - [marc-mabe/php-enum-phpstan](https://github.com/marc-mabe/php-enum-phpstan) - [v2.0.1](https://github.com/marc-mabe/php-enum-phpstan/releases/tag/v2.0.1) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.3](https://github.com/composer/composer/releases/tag/2.3.3) (4 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.1.50](https://github.com/phpstan/php-8-stubs/releases/tag/0.1.50) (4 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.1) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.4.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.4.2) (6 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.1.0](https://github.com/slevomat/coding-standard/releases/tag/7.1.0) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.1.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.1.0) (1 week ago)
