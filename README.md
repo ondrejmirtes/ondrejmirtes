@@ -15,15 +15,15 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 weeks ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.2.1](https://github.com/phpstan/php-8-stubs/releases/tag/0.2.1) (today)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.2.2](https://github.com/phpstan/php-8-stubs/releases/tag/0.2.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.6](https://github.com/phpstan/phpstan/releases/tag/1.5.6) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0) (3 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1) (3 days ago)
