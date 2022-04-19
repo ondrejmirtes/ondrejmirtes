@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.2](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.2) (today)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.3](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.3) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.6](https://github.com/phpstan/phpstan/releases/tag/1.5.6) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0) (5 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1) (5 days ago)
