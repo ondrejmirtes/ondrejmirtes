@@ -8,11 +8,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 weeks ago)
@@ -23,16 +23,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.1](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.1) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.6](https://github.com/phpstan/phpstan/releases/tag/1.5.6) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0) (4 days ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1) (4 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.4.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.4.4) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.5](https://github.com/composer/composer/releases/tag/2.3.5) (5 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.2) (1 week ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.1](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.1) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.6](https://github.com/phpstan/phpstan/releases/tag/1.5.6) (4 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0) (5 days ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1) (5 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.4.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.4.4) (5 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.5](https://github.com/composer/composer/releases/tag/2.3.5) (6 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.2) (2 weeks ago)
 - [github/linguist](https://github.com/github/linguist) - [v7.20.0](https://github.com/github/linguist/releases/tag/v7.20.0) (2 weeks ago)
 - [marc-mabe/php-enum-phpstan](https://github.com/marc-mabe/php-enum-phpstan) - [v2.0.1](https://github.com/marc-mabe/php-enum-phpstan/releases/tag/v2.0.1) (2 weeks ago)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.1.0](https://github.com/slevomat/coding-standard/releases/tag/7.1.0) (2 weeks ago)
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.1.0](https://github.com/slevomat/coding-standard/releases/tag/7.1.0) (3 weeks ago)
 
 ---
 
