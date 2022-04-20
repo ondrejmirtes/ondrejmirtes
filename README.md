@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.7](https://github.com/phpstan/phpstan/releases/tag/1.5.7) (today)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.3](https://github.com/codemirror/CodeMirror/releases/tag/5.65.3) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.3](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.3) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.5.6](https://github.com/phpstan/phpstan/releases/tag/1.5.6) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0) (6 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.4.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.4.4) (6 days ago)
