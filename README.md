@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.1) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.3](https://github.com/phpstan/phpstan/releases/tag/1.6.3) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.4](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.4) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.4.5](https://github.com/phpstan/phpdoc-parser/releases/tag/1.4.5) (6 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.1) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.3](https://github.com/phpstan/phpstan/releases/tag/1.6.3) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.4](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.4) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.4.5](https://github.com/phpstan/phpdoc-parser/releases/tag/1.4.5) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.3) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.1.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.1.1) (1 week ago)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.3](https://github.com/codemirror/CodeMirror/releases/tag/5.65.3) (1 week ago)
