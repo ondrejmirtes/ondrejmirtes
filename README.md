@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.7](https://github.com/phpstan/phpstan/releases/tag/1.6.7) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.2.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.2.3) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.5](https://github.com/phpstan/phpstan/releases/tag/1.6.5) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.5.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.5.0) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.6](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.6) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.3) (2 weeks ago)
