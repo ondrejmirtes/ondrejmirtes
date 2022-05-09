@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.0](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.0) (today)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.1.3](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.1.3) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.7](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.7) (2 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.2.0](https://github.com/slevomat/coding-standard/releases/tag/7.2.0) (3 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.3) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.1.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.1.1) (2 weeks ago)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.3](https://github.com/codemirror/CodeMirror/releases/tag/5.65.3) (2 weeks ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0) (3 weeks ago)
 
 ---
 
