@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.9](https://github.com/phpstan/phpstan/releases/tag/1.6.9) (today)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.4](https://github.com/codemirror/CodeMirror/releases/tag/5.65.4) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.9](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.9) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.6.8](https://github.com/phpstan/phpstan/releases/tag/1.6.8) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.4) (1 week ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.0](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.0) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.1.3](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.1.3) (1 week ago)
