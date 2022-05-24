@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.1](https://github.com/phpstan/phpstan/releases/tag/1.7.1) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.5) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.0](https://github.com/phpstan/phpstan/releases/tag/1.7.0) (1 day ago)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.4](https://github.com/codemirror/CodeMirror/releases/tag/5.65.4) (4 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.9](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.9) (4 days ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.0](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.0) (2 weeks ago)
