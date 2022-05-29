@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.3](https://github.com/phpstan/phpstan/releases/tag/1.7.3) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.10](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.10) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.2](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.2) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.6](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.6) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.2](https://github.com/phpstan/phpstan/releases/tag/1.7.2) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.13](https://github.com/composer/composer/releases/tag/2.2.13) (4 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.2.1](https://github.com/slevomat/coding-standard/releases/tag/7.2.1) (4 days ago)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.4](https://github.com/codemirror/CodeMirror/releases/tag/5.65.4) (1 week ago)
