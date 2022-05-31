@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.14.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.14.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.7](https://github.com/phpstan/phpstan/releases/tag/1.7.7) (today)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.5](https://github.com/codemirror/CodeMirror/releases/tag/5.65.5) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.10](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.10) (2 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.2.1](https://github.com/slevomat/coding-standard/releases/tag/7.2.1) (6 days ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.0](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.0) (3 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.1.3](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.1.3) (3 weeks ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.5.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.5.1) (3 weeks ago)
 
 ---
 
