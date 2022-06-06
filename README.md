@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.9](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.9) (today)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.10](https://github.com/phpstan/phpstan/releases/tag/1.7.10) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.14](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.14) (3 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.6](https://github.com/composer/composer/releases/tag/2.3.6) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.14.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.14.0) (6 days ago)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.5](https://github.com/codemirror/CodeMirror/releases/tag/5.65.5) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.2](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.2) (1 week ago)
