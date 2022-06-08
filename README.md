@@ -30,7 +30,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.0) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.14](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.14) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.14.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.14.0) (1 week ago)
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - [5.65.5](https://github.com/codemirror/CodeMirror/releases/tag/5.65.5) (1 week ago)
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.5](https://github.com/codemirror/codemirror5/releases/tag/5.65.5) (1 week ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [7.2.1](https://github.com/slevomat/coding-standard/releases/tag/7.2.1) (2 weeks ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.0](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.0) (1 month ago)
 
