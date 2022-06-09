@@ -10,11 +10,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 weeks ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 month ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.12](https://github.com/phpstan/phpstan/releases/tag/1.7.12) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.4) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.0) (today)
 - [github/linguist](https://github.com/github/linguist) - [v7.21.0](https://github.com/github/linguist/releases/tag/v7.21.0) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.11](https://github.com/phpstan/phpstan/releases/tag/1.7.11) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.9](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.9) (3 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.0) (3 days ago)
