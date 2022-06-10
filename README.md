@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.2) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.5) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.12](https://github.com/phpstan/phpstan/releases/tag/1.7.12) (1 day ago)
 - [github/linguist](https://github.com/github/linguist) - [v7.21.0](https://github.com/github/linguist/releases/tag/v7.21.0) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (4 days ago)
