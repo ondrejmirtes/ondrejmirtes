@@ -8,7 +8,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (3 days ago)
