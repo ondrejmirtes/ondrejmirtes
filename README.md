@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.3) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.6.0](https://github.com/Roave/BetterReflection/releases/tag/5.6.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.13](https://github.com/phpstan/phpstan/releases/tag/1.7.13) (1 day ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [1.0.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/1.0.0) (4 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.2) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.5) (4 days ago)
 - [github/linguist](https://github.com/github/linguist) - [v7.21.0](https://github.com/github/linguist/releases/tag/v7.21.0) (5 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - [2.0.3](https://github.com/azjezz/psl/releases/tag/2.0.3) (1 week ago)
