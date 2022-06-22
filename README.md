@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.0.1](https://github.com/slevomat/coding-standard/releases/tag/8.0.1) (today)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.6](https://github.com/codemirror/codemirror5/releases/tag/5.65.6) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.15](https://github.com/phpstan/phpstan/releases/tag/1.7.15) (2 days ago)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.0.0](https://github.com/slevomat/coding-standard/releases/tag/8.0.0) (5 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.15](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.15) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.3) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.6.0](https://github.com/Roave/BetterReflection/releases/tag/5.6.0) (1 week ago)
