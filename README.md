@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.4) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.1.0](https://github.com/slevomat/coding-standard/releases/tag/8.1.0) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.3.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.3.0) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.17](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.17) (3 days ago)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.6](https://github.com/codemirror/codemirror5/releases/tag/5.65.6) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.15](https://github.com/phpstan/phpstan/releases/tag/1.7.15) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.3) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.6.0](https://github.com/Roave/BetterReflection/releases/tag/5.6.0) (1 week ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [1.0.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/1.0.0) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.5) (2 weeks ago)
