@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.3.8](https://github.com/composer/composer/releases/tag/2.3.8) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.0](https://github.com/phpstan/phpstan/releases/tag/1.8.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.4) (5 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.1.0](https://github.com/slevomat/coding-standard/releases/tag/8.1.0) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.6.0](https://github.com/Roave/BetterReflection/releases/tag/5.6.0) (2 weeks ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [1.0.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/1.0.0) (3 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.5) (3 weeks ago)
-- [github/linguist](https://github.com/github/linguist) - [v7.21.0](https://github.com/github/linguist/releases/tag/v7.21.0) (3 weeks ago)
 
 ---
 
