@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.3.10](https://github.com/composer/composer/releases/tag/2.3.10) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.20](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.20) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.10) (today)
 - [github/linguist](https://github.com/github/linguist) - [v7.22.0](https://github.com/github/linguist/releases/tag/v7.22.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.1](https://github.com/phpstan/phpstan/releases/tag/1.8.1) (1 day ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.2.0](https://github.com/slevomat/coding-standard/releases/tag/8.2.0) (5 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.9](https://github.com/composer/composer/releases/tag/2.3.9) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.4) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.3.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.3.0) (2 weeks ago)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.6](https://github.com/codemirror/codemirror5/releases/tag/5.65.6) (3 weeks ago)
