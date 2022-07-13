@@ -8,16 +8,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
-- [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
+- [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
 
 ---
 
