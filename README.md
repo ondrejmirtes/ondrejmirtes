@@ -10,7 +10,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 days ago)
@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (today)
 - [github/linguist](https://github.com/github/linguist) - [v7.22.1](https://github.com/github/linguist/releases/tag/v7.22.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.24](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.24) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (1 day ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.7](https://github.com/codemirror/codemirror5/releases/tag/5.65.7) (2 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.3.0](https://github.com/slevomat/coding-standard/releases/tag/8.3.0) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.6.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.6.4) (3 weeks ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.3.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.3.0) (4 weeks ago)
 
 ---
 
