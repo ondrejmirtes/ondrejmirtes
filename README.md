@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (5 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.25](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.25) (today)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.26](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.26) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (2 days ago)
 - [github/linguist](https://github.com/github/linguist) - [v7.22.1](https://github.com/github/linguist/releases/tag/v7.22.1) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (3 days ago)
