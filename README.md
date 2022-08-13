@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.30](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.30) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.4.0](https://github.com/slevomat/coding-standard/releases/tag/8.4.0) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.7.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.7.0) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.12](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.12) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.9](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.9) (1 week ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.29](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.29) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (3 weeks ago)
 - [github/linguist](https://github.com/github/linguist) - [v7.22.1](https://github.com/github/linguist/releases/tag/v7.22.1) (3 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (3 weeks ago)
