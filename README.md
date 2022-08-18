@@ -8,23 +8,23 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 weeks ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (4 weeks ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 weeks ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 weeks ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 weeks ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (4 weeks ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 month ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 month ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 month ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.32](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.32) (today)
-- [composer/composer](https://github.com/composer/composer) - [2.4.0](https://github.com/composer/composer/releases/tag/2.4.0) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.32](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.32) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - [2.4.0](https://github.com/composer/composer/releases/tag/2.4.0) (2 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.4.0](https://github.com/slevomat/coding-standard/releases/tag/8.4.0) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.7.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.7.0) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.12](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.12) (1 week ago)
