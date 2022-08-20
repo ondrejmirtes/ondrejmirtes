@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.8](https://github.com/codemirror/codemirror5/releases/tag/5.65.8) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.4.1](https://github.com/composer/composer/releases/tag/2.4.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.32](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.32) (3 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.4.0](https://github.com/slevomat/coding-standard/releases/tag/8.4.0) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (4 weeks ago)
 - [github/linguist](https://github.com/github/linguist) - [v7.22.1](https://github.com/github/linguist/releases/tag/v7.22.1) (4 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (1 month ago)
-- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.7](https://github.com/codemirror/codemirror5/releases/tag/5.65.7) (1 month ago)
 
 ---
 
