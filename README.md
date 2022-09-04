@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.8.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.8.0) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0alpha1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0alpha1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.4](https://github.com/phpstan/phpstan/releases/tag/1.8.4) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.35](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.35) (1 day ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2) (1 week ago)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.8](https://github.com/codemirror/codemirror5/releases/tag/5.65.8) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.1](https://github.com/composer/composer/releases/tag/2.4.1) (2 weeks ago)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.4.0](https://github.com/slevomat/coding-standard/releases/tag/8.4.0) (3 weeks ago)
 
 ---
 
