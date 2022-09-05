@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [github/linguist](https://github.com/github/linguist) - [v7.23.0](https://github.com/github/linguist/releases/tag/v7.23.0) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.36](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.36) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.8.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.8.0) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0alpha1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0alpha1) (1 day ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.9.0](https://github.com/Roave/BetterReflection/releases/tag/5.9.0) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2) (2 weeks ago)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.8](https://github.com/codemirror/codemirror5/releases/tag/5.65.8) (2 weeks ago)
-- [composer/composer](https://github.com/composer/composer) - [2.4.1](https://github.com/composer/composer/releases/tag/2.4.1) (2 weeks ago)
 
 ---
 
