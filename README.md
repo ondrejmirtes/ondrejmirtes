@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.9](https://github.com/codemirror/codemirror5/releases/tag/5.65.9) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.4.2](https://github.com/composer/composer/releases/tag/2.4.2) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.0](https://github.com/Roave/BetterReflection/releases/tag/5.11.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.5](https://github.com/phpstan/phpstan/releases/tag/1.8.5) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.8.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.8.0) (2 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0alpha1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0alpha1) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.3) (2 weeks ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.13](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.13) (3 weeks ago)
 
 ---
 
