@@ -23,6 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.5.1](https://github.com/slevomat/coding-standard/releases/tag/8.5.1) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.1.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.1.0) (2 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.1](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.1) (2 days ago)
@@ -30,9 +32,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.9](https://github.com/codemirror/codemirror5/releases/tag/5.65.9) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.2](https://github.com/composer/composer/releases/tag/2.4.2) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.0](https://github.com/Roave/BetterReflection/releases/tag/5.11.0) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.5](https://github.com/phpstan/phpstan/releases/tag/1.8.5) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.37](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.37) (2 weeks ago)
-- [github/linguist](https://github.com/github/linguist) - [v7.23.0](https://github.com/github/linguist/releases/tag/v7.23.0) (2 weeks ago)
 
 ---
 
