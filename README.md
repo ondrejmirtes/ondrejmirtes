@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.38](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.38) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (1 day ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.5.1](https://github.com/slevomat/coding-standard/releases/tag/8.5.1) (1 day ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.9](https://github.com/codemirror/codemirror5/releases/tag/5.65.9) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.2](https://github.com/composer/composer/releases/tag/2.4.2) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.0](https://github.com/Roave/BetterReflection/releases/tag/5.11.0) (1 week ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.37](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.37) (2 weeks ago)
 
 ---
 
