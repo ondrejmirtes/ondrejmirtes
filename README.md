@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 weeks ago)
@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.1](https://github.com/Roave/BetterReflection/releases/tag/5.11.1) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.5.2](https://github.com/slevomat/coding-standard/releases/tag/8.5.2) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.39](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.39) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (6 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.14](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.14) (1 week ago)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - [5.65.9](https://github.com/codemirror/codemirror5/releases/tag/5.65.9) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.2](https://github.com/composer/composer/releases/tag/2.4.2) (2 weeks ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.0](https://github.com/Roave/BetterReflection/releases/tag/5.11.0) (2 weeks ago)
 
 ---
 
