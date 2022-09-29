@@ -9,7 +9,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
@@ -17,7 +18,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 month ago)
 - [composer/composer](https://github.com/composer/composer) (1 month ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 month ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
 
 ---
 
