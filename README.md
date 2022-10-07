@@ -8,30 +8,30 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
-- [doctrine/persistence](https://github.com/doctrine/persistence) (1 day ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
+- [doctrine/persistence](https://github.com/doctrine/persistence) (2 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.8](https://github.com/phpstan/phpstan/releases/tag/1.8.8) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.9.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.9.0) (today)
-- [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.4.0](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.4.0) (1 day ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.14](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.14) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.16](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.16) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.1.0](https://github.com/Roave/BetterReflection/releases/tag/6.1.0) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.8](https://github.com/phpstan/phpstan/releases/tag/1.8.8) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.9.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.9.0) (1 day ago)
+- [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.4.0](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.4.0) (2 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.14](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.14) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.16](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.16) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.1.0](https://github.com/Roave/BetterReflection/releases/tag/6.1.0) (3 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.5.2](https://github.com/slevomat/coding-standard/releases/tag/8.5.2) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.39](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.39) (1 week ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (1 week ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.1.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.1.0) (2 weeks ago)
 
 ---
