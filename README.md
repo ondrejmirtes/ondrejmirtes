@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [azjezz/psl](https://github.com/azjezz/psl) - [2.0.4](https://github.com/azjezz/psl/releases/tag/2.0.4) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.2.0](https://github.com/Roave/BetterReflection/releases/tag/6.2.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.8](https://github.com/phpstan/phpstan/releases/tag/1.8.8) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.9.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.9.0) (4 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.5.2](https://github.com/slevomat/coding-standard/releases/tag/8.5.2) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.39](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.39) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (2 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.1.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.1.0) (2 weeks ago)
 
 ---
 
