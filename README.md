@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.48](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.48) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.49](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.49) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.10](https://github.com/phpstan/phpstan/releases/tag/1.8.10) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.18](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.18) (3 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.2.0](https://github.com/phpstan/extension-installer/releases/tag/1.2.0) (3 days ago)
