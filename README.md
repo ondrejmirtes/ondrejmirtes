@@ -14,16 +14,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 weeks ago)
+- [doctrine/orm](https://github.com/doctrine/orm) (1 week ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (2 weeks ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.2.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.2.0) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.2.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.2.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.51](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.51) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.21](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.21) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.11](https://github.com/phpstan/phpstan/releases/tag/1.8.11) (2 days ago)
