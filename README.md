@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (today)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.2.7](https://github.com/nunomaduro/larastan/releases/tag/2.2.7) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.2.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.2.2) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (4 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.6.2](https://github.com/slevomat/coding-standard/releases/tag/8.6.2) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.2.0](https://github.com/phpstan/extension-installer/releases/tag/1.2.0) (2 weeks ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (2 weeks ago)
 
 ---
 
