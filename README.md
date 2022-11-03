@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [0.12.100](https://github.com/phpstan/phpstan/releases/tag/0.12.100) (2 days ago)
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.2.8](https://github.com/nunomaduro/larastan/releases/tag/2.2.8) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.0](https://github.com/phpstan/phpstan/releases/tag/1.9.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (3 days ago)
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.2.7](https://github.com/nunomaduro/larastan/releases/tag/2.2.7) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.2.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.2.2) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.51](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.51) (1 week ago)
