@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.2.9](https://github.com/nunomaduro/larastan/releases/tag/2.2.9) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.16](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.16) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.1](https://github.com/phpstan/phpstan/releases/tag/1.9.1) (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - [2.1.0](https://github.com/azjezz/psl/releases/tag/2.1.0) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.52](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.52) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.22) (1 day ago)
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.2.8](https://github.com/nunomaduro/larastan/releases/tag/2.2.8) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.2.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.2.2) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (1 week ago)
