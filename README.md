@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.2](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.2) (today)
 - [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.5.0](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.5.0) (today)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.2.9](https://github.com/nunomaduro/larastan/releases/tag/2.2.9) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.16](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.16) (2 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.22) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.2.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.2.2) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (1 week ago)
 
 ---
 
