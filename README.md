@@ -8,14 +8,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ondrejmirtes/phpstan-workshop](https://github.com/ondrejmirtes/phpstan-workshop) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) (3 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 weeks ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (4 weeks ago)
 - [doctrine/orm](https://github.com/doctrine/orm) (1 month ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
 
@@ -23,14 +23,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.1) (2 days ago)
-- [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.0](https://github.com/doctrine/persistence/releases/tag/3.1.0) (4 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.1) (3 days ago)
+- [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.0](https://github.com/doctrine/persistence/releases/tag/3.1.0) (5 days ago)
 - [github/linguist](https://github.com/github/linguist) - [v7.24.0](https://github.com/github/linguist/releases/tag/v7.24.0) (1 week ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.6.4](https://github.com/slevomat/coding-standard/releases/tag/8.6.4) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.23](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.23) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.15.2](https://github.com/nikic/PHP-Parser/releases/tag/v4.15.2) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (1 week ago)
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [1.0.4](https://github.com/nunomaduro/larastan/releases/tag/1.0.4) (1 week ago)
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [1.0.4](https://github.com/nunomaduro/larastan/releases/tag/1.0.4) (2 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.2](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.2) (2 weeks ago)
 - [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.5.0](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.5.0) (2 weeks ago)
 
