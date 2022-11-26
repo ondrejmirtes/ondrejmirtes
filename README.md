@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [azjezz/psl](https://github.com/azjezz/psl) - [2.2.0](https://github.com/azjezz/psl/releases/tag/2.2.0) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.13.4](https://github.com/doctrine/orm/releases/tag/2.13.4) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.1) (6 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.23](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.23) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.15.2](https://github.com/nikic/PHP-Parser/releases/tag/v4.15.2) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (2 weeks ago)
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [1.0.4](https://github.com/nunomaduro/larastan/releases/tag/1.0.4) (2 weeks ago)
 
 ---
 
