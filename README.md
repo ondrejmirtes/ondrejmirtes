@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [github/linguist](https://github.com/github/linguist) - [v7.24.1](https://github.com/github/linguist/releases/tag/v7.24.1) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.14.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.14.0) (1 day ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - [2.2.0](https://github.com/azjezz/psl/releases/tag/2.2.0) (2 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.13.4](https://github.com/doctrine/orm/releases/tag/2.13.4) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (5 days ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.0](https://github.com/doctrine/persistence/releases/tag/3.1.0) (1 week ago)
-- [github/linguist](https://github.com/github/linguist) - [v7.24.0](https://github.com/github/linguist/releases/tag/v7.24.0) (1 week ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.6.4](https://github.com/slevomat/coding-standard/releases/tag/8.6.4) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.23](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.23) (2 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.15.2](https://github.com/nikic/PHP-Parser/releases/tag/v4.15.2) (2 weeks ago)
