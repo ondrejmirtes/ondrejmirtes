@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [azjezz/psl](https://github.com/azjezz/psl) - [2.3.0](https://github.com/azjezz/psl/releases/tag/2.3.0) (today)
 - [github/linguist](https://github.com/github/linguist) - [v7.24.1](https://github.com/github/linguist/releases/tag/v7.24.1) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.14.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.14.0) (4 days ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - [2.2.0](https://github.com/azjezz/psl/releases/tag/2.2.0) (5 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.13.4](https://github.com/doctrine/orm/releases/tag/2.13.4) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (1 week ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.0](https://github.com/doctrine/persistence/releases/tag/3.1.0) (1 week ago)
