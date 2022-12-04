@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [ondrejmirtes/phpstan-workshop](https://github.com/ondrejmirtes/phpstan-workshop) (3 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [azjezz/psl](https://github.com/azjezz/psl) - [2.3.0](https://github.com/azjezz/psl/releases/tag/2.3.0) (2 days ago)
-- [github/linguist](https://github.com/github/linguist) - [v7.24.1](https://github.com/github/linguist/releases/tag/v7.24.1) (5 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.14.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.14.0) (6 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - [2.3.0](https://github.com/azjezz/psl/releases/tag/2.3.0) (3 days ago)
+- [github/linguist](https://github.com/github/linguist) - [v7.24.1](https://github.com/github/linguist/releases/tag/v7.24.1) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.14.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.14.0) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.13.4](https://github.com/doctrine/orm/releases/tag/2.13.4) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (1 week ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.0](https://github.com/doctrine/persistence/releases/tag/3.1.0) (2 weeks ago)
