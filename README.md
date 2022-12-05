@@ -9,6 +9,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [ondrejmirtes/phpstan-workshop](https://github.com/ondrejmirtes/phpstan-workshop) (3 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
@@ -17,7 +18,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
 - [doctrine/orm](https://github.com/doctrine/orm) (1 month ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
 
 ---
 
