@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.24](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.24) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.0) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.0) (2 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - [2.3.0](https://github.com/azjezz/psl/releases/tag/2.3.0) (1 week ago)
@@ -30,7 +31,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (2 weeks ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.0](https://github.com/doctrine/persistence/releases/tag/3.1.0) (3 weeks ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.6.4](https://github.com/slevomat/coding-standard/releases/tag/8.6.4) (3 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.23](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.23) (3 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (4 weeks ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [1.0.4](https://github.com/nunomaduro/larastan/releases/tag/1.0.4) (1 month ago)
 
