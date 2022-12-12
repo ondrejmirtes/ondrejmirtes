@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.25](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.25) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.26](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.26) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.3) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.0) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.0) (5 days ago)
