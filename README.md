@@ -10,12 +10,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [ondrejmirtes/phpstan-workshop](https://github.com/ondrejmirtes/phpstan-workshop) (1 month ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) (1 month ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
 - [doctrine/orm](https://github.com/doctrine/orm) (1 month ago)
 
@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.1) (today)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.0) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.1) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.3](https://github.com/phpstan/phpstan/releases/tag/1.9.3) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.5.0](https://github.com/Roave/BetterReflection/releases/tag/6.5.0) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.26](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.26) (1 day ago)
