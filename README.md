@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.1) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.7.1](https://github.com/slevomat/coding-standard/releases/tag/8.7.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.53](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.53) (1 day ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.1](https://github.com/doctrine/persistence/releases/tag/3.1.1) (2 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.5.0](https://github.com/Roave/BetterReflection/releases/tag/6.5.0) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.26](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.26) (3 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.3) (5 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.0) (1 week ago)
 
 ---
 
