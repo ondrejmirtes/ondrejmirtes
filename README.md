@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.7.1](https://github.com/slevomat/coding-standard/releases/tag/8.7.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.53](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.53) (1 day ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.1](https://github.com/doctrine/persistence/releases/tag/3.1.1) (2 days ago)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.7.0](https://github.com/slevomat/coding-standard/releases/tag/8.7.0) (2 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.1) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.2) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.3](https://github.com/phpstan/phpstan/releases/tag/1.9.3) (2 days ago)
