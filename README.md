@@ -8,16 +8,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [composer/composer](https://github.com/composer/composer) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
-- [ondrejmirtes/phpstan-workshop](https://github.com/ondrejmirtes/phpstan-workshop) (1 month ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) (1 month ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (today)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
 
 ---
 
