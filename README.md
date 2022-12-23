@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.3.0](https://github.com/nunomaduro/larastan/releases/tag/2.3.0) (today)
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.3.1](https://github.com/nunomaduro/larastan/releases/tag/2.3.1) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.19](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.19) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.3) (2 days ago)
