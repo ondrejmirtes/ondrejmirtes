@@ -8,29 +8,29 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [phpstan/.github](https://github.com/phpstan/.github) (5 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (5 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (5 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [phpstan/.github](https://github.com/phpstan/.github) (6 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (6 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (6 days ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.3.1](https://github.com/nunomaduro/larastan/releases/tag/2.3.1) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.19](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.19) (3 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (3 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.3) (4 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.3) (5 days ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - [2.3.1](https://github.com/azjezz/psl/releases/tag/2.3.1) (5 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [2.14.0](https://github.com/doctrine/orm/releases/tag/2.14.0) (6 days ago)
-- [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.2](https://github.com/doctrine/persistence/releases/tag/3.1.2) (6 days ago)
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.3.1](https://github.com/nunomaduro/larastan/releases/tag/2.3.1) (3 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.19](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.19) (4 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (4 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.3) (5 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.3) (6 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - [2.3.1](https://github.com/azjezz/psl/releases/tag/2.3.1) (6 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [2.14.0](https://github.com/doctrine/orm/releases/tag/2.14.0) (1 week ago)
+- [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.2](https://github.com/doctrine/persistence/releases/tag/3.1.2) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.4](https://github.com/phpstan/phpstan/releases/tag/1.9.4) (1 week ago)
 
