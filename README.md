@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.29](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.29) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.7](https://github.com/phpstan/phpstan/releases/tag/1.9.7) (today)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.3.4](https://github.com/nunomaduro/larastan/releases/tag/2.3.4) (2 days ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [2.5.6](https://github.com/doctrine/persistence/releases/tag/2.5.6) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.28](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.28) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.19](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.19) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.3) (2 weeks ago)
