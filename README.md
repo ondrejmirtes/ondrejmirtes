@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.30](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.30) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.31](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.31) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.7](https://github.com/phpstan/phpstan/releases/tag/1.9.7) (4 days ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.3.4](https://github.com/nunomaduro/larastan/releases/tag/2.3.4) (6 days ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [2.5.6](https://github.com/doctrine/persistence/releases/tag/2.5.6) (1 week ago)
