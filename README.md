@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.4.0](https://github.com/nunomaduro/larastan/releases/tag/2.4.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.10](https://github.com/phpstan/phpstan/releases/tag/1.9.10) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.5](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.5) (1 day ago)
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.3.5](https://github.com/nunomaduro/larastan/releases/tag/2.3.5) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.31](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.31) (4 days ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [2.5.6](https://github.com/doctrine/persistence/releases/tag/2.5.6) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.19](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.19) (3 weeks ago)
