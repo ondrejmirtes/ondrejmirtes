@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.0) (1 day ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - [2.4.1](https://github.com/azjezz/psl/releases/tag/2.4.1) (4 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.3](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.3) (5 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.55](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.55) (5 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.0) (2 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - [2.4.1](https://github.com/azjezz/psl/releases/tag/2.4.1) (5 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.3](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.3) (6 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.55](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.55) (6 days ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.3](https://github.com/doctrine/persistence/releases/tag/3.1.3) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.14](https://github.com/phpstan/phpstan/releases/tag/1.9.14) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.14.1](https://github.com/doctrine/orm/releases/tag/2.14.1) (2 weeks ago)
