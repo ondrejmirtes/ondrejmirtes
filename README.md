@@ -10,7 +10,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
