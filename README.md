@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.4](https://github.com/doctrine/persistence/releases/tag/3.1.4) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.22](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.22) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.0) (5 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - [2.4.1](https://github.com/azjezz/psl/releases/tag/2.4.1) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.3](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.3) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.55](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.55) (1 week ago)
-- [doctrine/persistence](https://github.com/doctrine/persistence) - [3.1.3](https://github.com/doctrine/persistence/releases/tag/3.1.3) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.14](https://github.com/phpstan/phpstan/releases/tag/1.9.14) (2 weeks ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.14.1](https://github.com/doctrine/orm/releases/tag/2.14.1) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.32](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.32) (3 weeks ago)
