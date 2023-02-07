@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.16](https://github.com/phpstan/phpstan/releases/tag/1.9.16) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.23](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.23) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.6.0](https://github.com/Roave/BetterReflection/releases/tag/6.6.0) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.19](https://github.com/composer/composer/releases/tag/2.2.19) (3 days ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [2.5.7](https://github.com/doctrine/persistence/releases/tag/2.5.7) (4 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.0) (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - [2.4.1](https://github.com/azjezz/psl/releases/tag/2.4.1) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.3](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.3) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.55](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.55) (1 week ago)
