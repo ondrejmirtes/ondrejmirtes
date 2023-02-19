@@ -13,9 +13,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 day ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 day ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 day ago)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 
