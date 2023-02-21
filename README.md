@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.6) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.7](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.7) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.33](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.33) (today)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.0](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.0) (today)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.1](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.1) (today)
