@@ -10,8 +10,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 week ago)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.9](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.9) (2 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.10](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.10) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.3](https://github.com/phpstan/phpstan/releases/tag/1.10.3) (5 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.56](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.56) (6 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.4](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.4) (1 week ago)
