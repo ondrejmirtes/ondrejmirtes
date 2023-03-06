@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.4](https://github.com/phpstan/phpstan/releases/tag/1.10.4) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.8.0](https://github.com/Roave/BetterReflection/releases/tag/6.8.0) (today)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.5.1](https://github.com/nunomaduro/larastan/releases/tag/2.5.1) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.57](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.57) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.10](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.10) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.3](https://github.com/phpstan/phpstan/releases/tag/1.10.3) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.4](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.4) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.33](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.33) (1 week ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.0](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.0) (1 week ago)
