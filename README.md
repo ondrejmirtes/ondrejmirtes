@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (1 day ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - [2.5.0](https://github.com/azjezz/psl/releases/tag/2.5.0) (1 day ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.3) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.7](https://github.com/phpstan/phpstan/releases/tag/1.10.7) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (2 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - [2.5.0](https://github.com/azjezz/psl/releases/tag/2.5.0) (2 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.3) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.7](https://github.com/phpstan/phpstan/releases/tag/1.10.7) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.60](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.60) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.8.0](https://github.com/Roave/BetterReflection/releases/tag/6.8.0) (1 week ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [2.5.1](https://github.com/nunomaduro/larastan/releases/tag/2.5.1) (2 weeks ago)
