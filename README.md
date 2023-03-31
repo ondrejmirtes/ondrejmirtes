@@ -39,4 +39,5 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 📫 How to reach me
 
 - Twitter: [@OndrejMirtes](https://twitter.com/ondrejmirtes)
+- Mastodon: [@OndrejMirtes@phpc.social](https://phpc.social/@OndrejMirtes)
 - Email: [ondrej@mirtes.cz](mailto:ondrej@mirtes.cz)
