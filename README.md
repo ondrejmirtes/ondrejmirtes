@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.10](https://github.com/phpstan/phpstan/releases/tag/1.10.10) (today)
 - [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.5.1](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.5.1) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.9](https://github.com/phpstan/phpstan/releases/tag/1.10.9) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.24](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.24) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.1) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.11) (1 week ago)
