@@ -17,7 +17,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 month ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 month ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 month ago)
 
 ---
 
