@@ -10,8 +10,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 weeks ago)
@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.0](https://github.com/phpstan/extension-installer/releases/tag/1.3.0) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.19.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.19.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.9.0](https://github.com/Roave/BetterReflection/releases/tag/6.9.0) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.1) (4 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.5.1](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.5.1) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.1) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.11) (3 weeks ago)
-- [composer/composer](https://github.com/composer/composer) - [2.5.5](https://github.com/composer/composer/releases/tag/2.5.5) (4 weeks ago)
 
 ---
 
