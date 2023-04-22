@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.1) (today)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.0](https://github.com/nunomaduro/larastan/releases/tag/v2.6.0) (2 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.14](https://github.com/phpstan/phpstan/releases/tag/1.10.14) (3 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.0](https://github.com/phpstan/extension-installer/releases/tag/1.3.0) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.9.0](https://github.com/Roave/BetterReflection/releases/tag/6.9.0) (6 days ago)
