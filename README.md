@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (2 weeks ago)
