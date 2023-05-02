@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.3) (1 week ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.4) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.14.3](https://github.com/doctrine/orm/releases/tag/2.14.3) (1 week ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.0](https://github.com/nunomaduro/larastan/releases/tag/v2.6.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.14](https://github.com/phpstan/phpstan/releases/tag/1.10.14) (1 week ago)
