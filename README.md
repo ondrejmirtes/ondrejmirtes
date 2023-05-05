@@ -8,11 +8,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (3 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
@@ -23,14 +23,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.38](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.38) (today)
-- [doctrine/orm](https://github.com/doctrine/orm) - [2.15.0](https://github.com/doctrine/orm/releases/tag/2.15.0) (1 day ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.4) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.38](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.38) (1 day ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [2.15.0](https://github.com/doctrine/orm/releases/tag/2.15.0) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.4) (3 days ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.0](https://github.com/nunomaduro/larastan/releases/tag/v2.6.0) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.14](https://github.com/phpstan/phpstan/releases/tag/1.10.14) (2 weeks ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.0](https://github.com/phpstan/extension-installer/releases/tag/1.3.0) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.9.0](https://github.com/Roave/BetterReflection/releases/tag/6.9.0) (2 weeks ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.1) (2 weeks ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.1) (3 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.9](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.9) (3 weeks ago)
 - [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.5.1](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.5.1) (1 month ago)
 
