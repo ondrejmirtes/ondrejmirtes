@@ -8,14 +8,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 day ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [phpstan/build-cs](https://github.com/phpstan/build-cs) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 day ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (1 day ago)
 
