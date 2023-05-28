@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.67.0](https://github.com/briannesbitt/Carbon/releases/tag/2.67.0) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (4 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.1](https://github.com/phpstan/extension-installer/releases/tag/1.3.1) (4 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.12](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.12) (5 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - [2.6.0](https://github.com/azjezz/psl/releases/tag/2.6.0) (5 days ago)
 - [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.6.0](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.6.0) (1 week ago)
 - [doctrine/persistence](https://github.com/doctrine/persistence) - [3.2.0](https://github.com/doctrine/persistence/releases/tag/3.2.0) (1 week ago)
