@@ -9,6 +9,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (3 days ago)
@@ -16,7 +17,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (4 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 
 ---
