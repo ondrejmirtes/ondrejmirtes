@@ -8,16 +8,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [laravel/framework](https://github.com/laravel/framework) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 week ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 
 ---
 
@@ -26,13 +26,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.16](https://github.com/phpstan/phpstan/releases/tag/1.10.16) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (4 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.15.2](https://github.com/doctrine/orm/releases/tag/2.15.2) (4 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - [v10.13.0](https://github.com/laravel/framework/releases/tag/v10.13.0) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.67.0](https://github.com/briannesbitt/Carbon/releases/tag/2.67.0) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.1](https://github.com/phpstan/extension-installer/releases/tag/1.3.1) (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - [2.6.0](https://github.com/azjezz/psl/releases/tag/2.6.0) (1 week ago)
 - [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.6.0](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.6.0) (2 weeks ago)
-- [doctrine/persistence](https://github.com/doctrine/persistence) - [3.2.0](https://github.com/doctrine/persistence/releases/tag/3.2.0) (2 weeks ago)
 
 ---
 
