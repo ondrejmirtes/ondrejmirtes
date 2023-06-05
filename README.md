@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 week ago)
@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (3 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [2.15.2](https://github.com/doctrine/orm/releases/tag/2.15.2) (3 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (4 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [2.15.2](https://github.com/doctrine/orm/releases/tag/2.15.2) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.67.0](https://github.com/briannesbitt/Carbon/releases/tag/2.67.0) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (1 week ago)
