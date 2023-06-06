@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.1](https://github.com/nunomaduro/larastan/releases/tag/v2.6.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.16](https://github.com/phpstan/phpstan/releases/tag/1.10.16) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (5 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.15.2](https://github.com/doctrine/orm/releases/tag/2.15.2) (5 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.1](https://github.com/phpstan/extension-installer/releases/tag/1.3.1) (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - [2.6.0](https://github.com/azjezz/psl/releases/tag/2.6.0) (2 weeks ago)
-- [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.6.0](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.6.0) (2 weeks ago)
 
 ---
 
