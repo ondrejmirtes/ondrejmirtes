@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [laravel/framework](https://github.com/laravel/framework) (2 days ago)
@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.17](https://github.com/phpstan/phpstan/releases/tag/1.10.17) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2) (today)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.1](https://github.com/nunomaduro/larastan/releases/tag/v2.6.1) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.16](https://github.com/phpstan/phpstan/releases/tag/1.10.16) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (6 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.15.2](https://github.com/doctrine/orm/releases/tag/2.15.2) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (1 week ago)
