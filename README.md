@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) - [v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2) (today)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.1](https://github.com/nunomaduro/larastan/releases/tag/v2.6.1) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.16](https://github.com/phpstan/phpstan/releases/tag/1.10.16) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (6 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.15.2](https://github.com/doctrine/orm/releases/tag/2.15.2) (6 days ago)
-- [laravel/framework](https://github.com/laravel/framework) - [v10.13.0](https://github.com/laravel/framework/releases/tag/v10.13.0) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.67.0](https://github.com/briannesbitt/Carbon/releases/tag/2.67.0) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (2 weeks ago)
