@@ -8,15 +8,15 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [laravel/framework](https://github.com/laravel/framework) (2 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
+- [laravel/framework](https://github.com/laravel/framework) (2 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 week ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 
 ---
