@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.20](https://github.com/phpstan/phpstan/releases/tag/1.10.20) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.68.0](https://github.com/briannesbitt/Carbon/releases/tag/2.68.0) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.19](https://github.com/phpstan/phpstan/releases/tag/1.10.19) (6 days ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.3](https://github.com/nunomaduro/larastan/releases/tag/v2.6.3) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (1 week ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2) (1 week ago)
