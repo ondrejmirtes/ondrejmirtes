@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) - [v10.14.0](https://github.com/laravel/framework/releases/tag/v10.14.0) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.15.3](https://github.com/doctrine/orm/releases/tag/2.15.3) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.21](https://github.com/phpstan/phpstan/releases/tag/1.10.21) (6 days ago)
-- [laravel/framework](https://github.com/laravel/framework) - [v10.13.5](https://github.com/laravel/framework/releases/tag/v10.13.5) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.68.1](https://github.com/briannesbitt/Carbon/releases/tag/2.68.1) (1 week ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.3](https://github.com/nunomaduro/larastan/releases/tag/v2.6.3) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (2 weeks ago)
