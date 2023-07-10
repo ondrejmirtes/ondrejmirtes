@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 month ago)
@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.63](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.63) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.25](https://github.com/phpstan/phpstan/releases/tag/1.10.25) (3 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.63](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.63) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.25](https://github.com/phpstan/phpstan/releases/tag/1.10.25) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.1) (1 week ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.14.1](https://github.com/laravel/framework/releases/tag/v10.14.1) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.15.3](https://github.com/doctrine/orm/releases/tag/2.15.3) (2 weeks ago)
