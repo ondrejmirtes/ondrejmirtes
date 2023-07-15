@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.65](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.65) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.66](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.66) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.15.0](https://github.com/laravel/framework/releases/tag/v10.15.0) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.25](https://github.com/phpstan/phpstan/releases/tag/1.10.25) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.1) (1 week ago)
