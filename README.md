@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) - [2.15.5](https://github.com/doctrine/orm/releases/tag/2.15.5) (today)
+- [doctrine/orm](https://github.com/doctrine/orm) - [2.16.0](https://github.com/doctrine/orm/releases/tag/2.16.0) (today)
 - [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.7.0](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.7.0) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.70](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.70) (2 days ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.4](https://github.com/nunomaduro/larastan/releases/tag/v2.6.4) (3 days ago)
