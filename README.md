@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.71](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.71) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.18.0](https://github.com/laravel/framework/releases/tag/v10.18.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.28](https://github.com/phpstan/phpstan/releases/tag/1.10.28) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.41](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.41) (1 day ago)
@@ -31,7 +32,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.69.0](https://github.com/briannesbitt/Carbon/releases/tag/2.69.0) (6 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.16.0](https://github.com/doctrine/orm/releases/tag/2.16.0) (1 week ago)
 - [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.7.0](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.7.0) (1 week ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.70](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.70) (1 week ago)
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.4](https://github.com/nunomaduro/larastan/releases/tag/v2.6.4) (1 week ago)
 
 ---
