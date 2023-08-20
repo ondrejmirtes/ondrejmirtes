@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - [ondrejmirtes/nette-di-dynamic](https://github.com/ondrejmirtes/nette-di-dynamic) (2 weeks ago)
@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) - [v10.19.0](https://github.com/laravel/framework/releases/tag/v10.19.0) (4 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.73](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.73) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.29](https://github.com/phpstan/phpstan/releases/tag/1.10.29) (5 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - [v10.19.0](https://github.com/laravel/framework/releases/tag/v10.19.0) (5 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.73](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.73) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.29](https://github.com/phpstan/phpstan/releases/tag/1.10.29) (6 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.16.1](https://github.com/doctrine/orm/releases/tag/2.16.1) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.42](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.42) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.4) (2 weeks ago)
