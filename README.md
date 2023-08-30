@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ondrejmirtes/nette-di-dynamic](https://github.com/ondrejmirtes/nette-di-dynamic) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
