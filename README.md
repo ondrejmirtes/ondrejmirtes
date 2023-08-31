@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [ondrejmirtes/nette-di-dynamic](https://github.com/ondrejmirtes/nette-di-dynamic) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [ondrejmirtes/nette-di-dynamic](https://github.com/ondrejmirtes/nette-di-dynamic) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 weeks ago)
@@ -23,15 +23,15 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) - [v10.21.0](https://github.com/laravel/framework/releases/tag/v10.21.0) (1 day ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [2.16.2](https://github.com/doctrine/orm/releases/tag/2.16.2) (2 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.14) (5 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.74](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.74) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.32](https://github.com/phpstan/phpstan/releases/tag/1.10.32) (6 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - [v10.21.0](https://github.com/laravel/framework/releases/tag/v10.21.0) (2 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [2.16.2](https://github.com/doctrine/orm/releases/tag/2.16.2) (3 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.14) (6 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.74](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.74) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.32](https://github.com/phpstan/phpstan/releases/tag/1.10.32) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.42](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.42) (3 weeks ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.4) (3 weeks ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.1) (3 weeks ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.69.0](https://github.com/briannesbitt/Carbon/releases/tag/2.69.0) (3 weeks ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.1) (4 weeks ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.69.0](https://github.com/briannesbitt/Carbon/releases/tag/2.69.0) (4 weeks ago)
 - [brotkrueml/typo3-matomo-integration](https://github.com/brotkrueml/typo3-matomo-integration) - [v1.7.0](https://github.com/brotkrueml/typo3-matomo-integration/releases/tag/v1.7.0) (1 month ago)
 
 ---
