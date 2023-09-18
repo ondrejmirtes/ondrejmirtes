@@ -15,9 +15,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 weeks ago)
 - [ondrejmirtes/nette-di-dynamic](https://github.com/ondrejmirtes/nette-di-dynamic) (2 weeks ago)
+- [reactphp/promise](https://github.com/reactphp/promise) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 month ago)
 
 ---
 
