@@ -9,7 +9,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ondrejmirtes/codemirror-code-hl-php](https://github.com/ondrejmirtes/codemirror-code-hl-php) (1 week ago)
 - [ondrejmirtes/jest-module-repro](https://github.com/ondrejmirtes/jest-module-repro) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
