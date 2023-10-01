@@ -16,8 +16,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [ondrejmirtes/codemirror-code-hl-php](https://github.com/ondrejmirtes/codemirror-code-hl-php) (2 weeks ago)
 - [ondrejmirtes/jest-module-repro](https://github.com/ondrejmirtes/jest-module-repro) (3 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
-- [reactphp/promise](https://github.com/reactphp/promise) (1 month ago)
 - [ondrejmirtes/nette-di-dynamic](https://github.com/ondrejmirtes/nette-di-dynamic) (1 month ago)
+- [reactphp/promise](https://github.com/reactphp/promise) (1 month ago)
 
 ---
 
