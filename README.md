@@ -8,8 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
@@ -17,7 +18,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [ondrejmirtes/jest-module-repro](https://github.com/ondrejmirtes/jest-module-repro) (1 month ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
 - [ondrejmirtes/nette-di-dynamic](https://github.com/ondrejmirtes/nette-di-dynamic) (1 month ago)
-- [reactphp/promise](https://github.com/reactphp/promise) (1 month ago)
 
 ---
 
