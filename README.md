@@ -8,7 +8,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (6 days ago)
@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.41](https://github.com/phpstan/phpstan/releases/tag/1.10.41) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.30.1](https://github.com/laravel/framework/releases/tag/v10.30.1) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.5) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.40](https://github.com/phpstan/phpstan/releases/tag/1.10.40) (6 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.2) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.45](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.45) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.76](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.76) (3 weeks ago)
