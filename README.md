@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - [v2.6.5](https://github.com/nunomaduro/larastan/releases/tag/v2.6.5) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.82](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.82) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.47](https://github.com/phpstan/phpstan/releases/tag/1.10.47) (3 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.0](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0) (6 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53) (1 week ago)
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.5) (1 month ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.2) (1 month ago)
 
 ---
 
