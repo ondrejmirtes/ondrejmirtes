@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 weeks ago)
@@ -23,15 +23,15 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) - [v10.35.0](https://github.com/laravel/framework/releases/tag/v10.35.0) (1 day ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.7.0](https://github.com/larastan/larastan/releases/tag/v2.7.0) (2 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.82](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.82) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.47](https://github.com/phpstan/phpstan/releases/tag/1.10.47) (5 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - [v10.35.0](https://github.com/laravel/framework/releases/tag/v10.35.0) (2 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v2.7.0](https://github.com/larastan/larastan/releases/tag/v2.7.0) (3 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.82](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.82) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.47](https://github.com/phpstan/phpstan/releases/tag/1.10.47) (6 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.0](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.4) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.18.0](https://github.com/Roave/BetterReflection/releases/tag/6.18.0) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53) (2 weeks ago)
-- [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (2 weeks ago)
+- [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (3 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.5) (1 month ago)
 
 ---
