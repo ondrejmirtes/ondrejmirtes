@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.6.6](https://github.com/composer/composer/releases/tag/2.6.6) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.48](https://github.com/phpstan/phpstan/releases/tag/1.10.48) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.19.0](https://github.com/Roave/BetterReflection/releases/tag/6.19.0) (1 day ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.35.0](https://github.com/laravel/framework/releases/tag/v10.35.0) (3 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.4) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53) (2 weeks ago)
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (3 weeks ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.5) (1 month ago)
 
 ---
 
