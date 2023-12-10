@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.1](https://github.com/briannesbitt/Carbon/releases/tag/2.72.1) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.6](https://github.com/composer/composer/releases/tag/2.6.6) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.48](https://github.com/phpstan/phpstan/releases/tag/1.10.48) (2 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.82](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.82) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.4) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53) (2 weeks ago)
-- [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (3 weeks ago)
 
 ---
 
