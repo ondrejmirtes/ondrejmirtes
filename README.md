@@ -9,8 +9,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (3 weeks ago)
@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.49](https://github.com/phpstan/phpstan/releases/tag/1.10.49) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.1](https://github.com/briannesbitt/Carbon/releases/tag/2.72.1) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.6](https://github.com/composer/composer/releases/tag/2.6.6) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.48](https://github.com/phpstan/phpstan/releases/tag/1.10.48) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.19.0](https://github.com/Roave/BetterReflection/releases/tag/6.19.0) (5 days ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.35.0](https://github.com/laravel/framework/releases/tag/v10.35.0) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.7.0](https://github.com/larastan/larastan/releases/tag/v2.7.0) (1 week ago)
