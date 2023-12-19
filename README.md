@@ -8,25 +8,25 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 month ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 month ago)
-- [larastan/larastan](https://github.com/larastan/larastan) (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) - [v10.38.0](https://github.com/laravel/framework/releases/tag/v10.38.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.5](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.5) (3 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2023.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.3) (4 days ago)
-- [laravel/framework](https://github.com/laravel/framework) - [v10.37.3](https://github.com/laravel/framework/releases/tag/v10.37.3) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.50](https://github.com/phpstan/phpstan/releases/tag/1.10.50) (6 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.1](https://github.com/briannesbitt/Carbon/releases/tag/2.72.1) (1 week ago)
