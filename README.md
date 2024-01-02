@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) - [v2.8.0](https://github.com/larastan/larastan/releases/tag/v2.8.0) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.39.0](https://github.com/laravel/framework/releases/tag/v10.39.0) (6 days ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.0.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.0.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.6) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2023.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.3) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.50](https://github.com/phpstan/phpstan/releases/tag/1.10.50) (2 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.1](https://github.com/briannesbitt/Carbon/releases/tag/2.72.1) (3 weeks ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.7.0](https://github.com/larastan/larastan/releases/tag/v2.7.0) (4 weeks ago)
 
 ---
 
