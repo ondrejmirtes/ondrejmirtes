@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.22.0](https://github.com/Roave/BetterReflection/releases/tag/6.22.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.56](https://github.com/phpstan/phpstan/releases/tag/1.10.56) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.56](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.56) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.7) (5 days ago)
@@ -31,7 +32,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.8.1](https://github.com/larastan/larastan/releases/tag/v2.8.1) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.25.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.25.0) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.21.0](https://github.com/Roave/BetterReflection/releases/tag/6.21.0) (1 week ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.0.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.0.0) (3 weeks ago)
 
 ---
