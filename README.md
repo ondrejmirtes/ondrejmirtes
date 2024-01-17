@@ -8,7 +8,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.58](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.58) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.41.0](https://github.com/laravel/framework/releases/tag/v10.41.0) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.57](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.57) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.22.0](https://github.com/Roave/BetterReflection/releases/tag/6.22.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.56](https://github.com/phpstan/phpstan/releases/tag/1.10.56) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.7) (1 week ago)
