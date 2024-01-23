@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-beta.1](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-beta.1) (today)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.1.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.1.1) (1 day ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.2](https://github.com/briannesbitt/Carbon/releases/tag/2.72.2) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.23.0](https://github.com/Roave/BetterReflection/releases/tag/6.23.0) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.59](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.59) (5 days ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.41.0](https://github.com/laravel/framework/releases/tag/v10.41.0) (1 week ago)
