@@ -9,9 +9,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [CarbonPHP/carbon-doctrine-types](https://github.com/CarbonPHP/carbon-doctrine-types) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 month ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) (1 month ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 month ago)
@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62) (today)
 - [CarbonPHP/carbon-doctrine-types](https://github.com/CarbonPHP/carbon-doctrine-types) - [3.2.0](https://github.com/CarbonPHP/carbon-doctrine-types/releases/tag/3.2.0) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.61](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.61) (3 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.2](https://github.com/briannesbitt/Carbon/releases/tag/3.0.2) (6 days ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.43.0](https://github.com/laravel/framework/releases/tag/v10.43.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.57](https://github.com/phpstan/phpstan/releases/tag/1.10.57) (2 weeks ago)
