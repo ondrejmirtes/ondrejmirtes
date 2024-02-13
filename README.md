@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.83](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.83) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.58](https://github.com/phpstan/phpstan/releases/tag/1.10.58) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62) (1 day ago)
 - [CarbonPHP/carbon-doctrine-types](https://github.com/CarbonPHP/carbon-doctrine-types) - [3.2.0](https://github.com/CarbonPHP/carbon-doctrine-types/releases/tag/3.2.0) (4 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.23.0](https://github.com/Roave/BetterReflection/releases/tag/6.23.0) (3 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.7) (1 month ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.2](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.2) (1 month ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.8.1](https://github.com/larastan/larastan/releases/tag/v2.8.1) (1 month ago)
 
 ---
 
