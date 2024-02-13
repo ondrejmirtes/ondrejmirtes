@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.84](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.84) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.0](https://github.com/larastan/larastan/releases/tag/v2.9.0) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.83](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.83) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.58](https://github.com/phpstan/phpstan/releases/tag/1.10.58) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62) (1 day ago)
 - [CarbonPHP/carbon-doctrine-types](https://github.com/CarbonPHP/carbon-doctrine-types) - [3.2.0](https://github.com/CarbonPHP/carbon-doctrine-types/releases/tag/3.2.0) (4 days ago)
