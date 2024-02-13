@@ -8,16 +8,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [CarbonPHP/carbon-doctrine-types](https://github.com/CarbonPHP/carbon-doctrine-types) (4 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 month ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) (1 month ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 month ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
 
 ---
 
@@ -31,8 +31,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62) (1 day ago)
 - [CarbonPHP/carbon-doctrine-types](https://github.com/CarbonPHP/carbon-doctrine-types) - [3.2.0](https://github.com/CarbonPHP/carbon-doctrine-types/releases/tag/3.2.0) (4 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.2](https://github.com/briannesbitt/Carbon/releases/tag/3.0.2) (1 week ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.0](https://github.com/doctrine/dbal/releases/tag/4.0.0) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.23.0](https://github.com/Roave/BetterReflection/releases/tag/6.23.0) (3 weeks ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.7) (1 month ago)
 
 ---
 
