@@ -8,16 +8,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) (1 week ago)
 - [CarbonPHP/carbon-doctrine-types](https://github.com/CarbonPHP/carbon-doctrine-types) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 month ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) (1 month ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 month ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
 
 ---
 
