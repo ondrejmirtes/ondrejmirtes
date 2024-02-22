@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) - [2.18.1](https://github.com/doctrine/orm/releases/tag/2.18.1) (today)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (1 day ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v10.45.0](https://github.com/laravel/framework/releases/tag/v10.45.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.59](https://github.com/phpstan/phpstan/releases/tag/1.10.59) (2 days ago)
