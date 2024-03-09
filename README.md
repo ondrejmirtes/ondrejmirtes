@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.15.0](https://github.com/slevomat/coding-standard/releases/tag/8.15.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.24.0](https://github.com/Roave/BetterReflection/releases/tag/6.24.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.60](https://github.com/phpstan/phpstan/releases/tag/1.10.60) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (4 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.1](https://github.com/doctrine/dbal/releases/tag/4.0.1) (6 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.2](https://github.com/larastan/larastan/releases/tag/v2.9.2) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.26.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.26.0) (2 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.16) (2 weeks ago)
 
 ---
 
