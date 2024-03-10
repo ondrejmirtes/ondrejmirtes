@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.25.0](https://github.com/Roave/BetterReflection/releases/tag/6.25.0) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.15.0](https://github.com/slevomat/coding-standard/releases/tag/8.15.0) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.24.0](https://github.com/Roave/BetterReflection/releases/tag/6.24.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.60](https://github.com/phpstan/phpstan/releases/tag/1.10.60) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.8) (5 days ago)
