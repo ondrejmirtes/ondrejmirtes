@@ -23,13 +23,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) - [v10.48.0](https://github.com/laravel/framework/releases/tag/v10.48.0) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.0](https://github.com/briannesbitt/Carbon/releases/tag/3.1.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.26.0](https://github.com/Roave/BetterReflection/releases/tag/6.26.0) (1 day ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.15.0](https://github.com/slevomat/coding-standard/releases/tag/8.15.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.60](https://github.com/phpstan/phpstan/releases/tag/1.10.60) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.8) (1 week ago)
-- [laravel/framework](https://github.com/laravel/framework) - [v10.47.0](https://github.com/laravel/framework/releases/tag/v10.47.0) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.0](https://github.com/doctrine/orm/releases/tag/3.1.0) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.1](https://github.com/doctrine/dbal/releases/tag/4.0.1) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.2](https://github.com/larastan/larastan/releases/tag/v2.9.2) (1 week ago)
