@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.0](https://github.com/briannesbitt/Carbon/releases/tag/3.1.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.26.0](https://github.com/Roave/BetterReflection/releases/tag/6.26.0) (1 day ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.15.0](https://github.com/slevomat/coding-standard/releases/tag/8.15.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.60](https://github.com/phpstan/phpstan/releases/tag/1.10.60) (5 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.0](https://github.com/doctrine/orm/releases/tag/3.1.0) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.1](https://github.com/doctrine/dbal/releases/tag/4.0.1) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.2](https://github.com/larastan/larastan/releases/tag/v2.9.2) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.26.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.26.0) (2 weeks ago)
 
 ---
 
