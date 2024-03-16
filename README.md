@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 weeks ago)
@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) - [v10.48.3](https://github.com/laravel/framework/releases/tag/v10.48.3) (today)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.1](https://github.com/briannesbitt/Carbon/releases/tag/3.1.1) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.62](https://github.com/phpstan/phpstan/releases/tag/1.10.62) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.27.0](https://github.com/Roave/BetterReflection/releases/tag/6.27.0) (3 days ago)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.15.0](https://github.com/slevomat/coding-standard/releases/tag/8.15.0) (6 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - [v11.0.7](https://github.com/laravel/framework/releases/tag/v11.0.7) (1 day ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.1](https://github.com/briannesbitt/Carbon/releases/tag/3.1.1) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.62](https://github.com/phpstan/phpstan/releases/tag/1.10.62) (3 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.27.0](https://github.com/Roave/BetterReflection/releases/tag/6.27.0) (4 days ago)
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.15.0](https://github.com/slevomat/coding-standard/releases/tag/8.15.0) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.8) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.0](https://github.com/doctrine/orm/releases/tag/3.1.0) (1 week ago)
