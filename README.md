@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.31.0](https://github.com/Roave/BetterReflection/releases/tag/6.31.0) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.1.0](https://github.com/laravel/framework/releases/tag/v11.1.0) (today)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.30.0](https://github.com/Roave/BetterReflection/releases/tag/6.30.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.65](https://github.com/phpstan/phpstan/releases/tag/1.10.65) (3 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.27.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.27.0) (5 days ago)
