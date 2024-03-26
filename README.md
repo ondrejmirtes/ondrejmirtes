@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) - [v11.1.0](https://github.com/laravel/framework/releases/tag/v11.1.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.30.0](https://github.com/Roave/BetterReflection/releases/tag/6.30.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.65](https://github.com/phpstan/phpstan/releases/tag/1.10.65) (3 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1) (4 days ago)
-- [laravel/framework](https://github.com/laravel/framework) - [v11.0.8](https://github.com/laravel/framework/releases/tag/v11.0.8) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.27.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.27.0) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.64](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.64) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (1 week ago)
