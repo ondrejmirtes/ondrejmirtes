@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.0](https://github.com/briannesbitt/Carbon/releases/tag/3.2.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.32.0](https://github.com/Roave/BetterReflection/releases/tag/6.32.0) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.1.0](https://github.com/laravel/framework/releases/tag/v11.1.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.65](https://github.com/phpstan/phpstan/releases/tag/1.10.65) (4 days ago)
@@ -31,7 +32,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.64](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.64) (6 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.9](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.9) (1 week ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.1](https://github.com/briannesbitt/Carbon/releases/tag/3.1.1) (2 weeks ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.15.0](https://github.com/slevomat/coding-standard/releases/tag/8.15.0) (2 weeks ago)
 
 ---
