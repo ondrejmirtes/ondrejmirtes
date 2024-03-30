@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.5](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.5) (1 day ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.6](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.6) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.66](https://github.com/phpstan/phpstan/releases/tag/1.10.66) (2 days ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.1.1](https://github.com/laravel/framework/releases/tag/v11.1.1) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.2](https://github.com/briannesbitt/Carbon/releases/tag/3.2.2) (2 days ago)
