@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.4](https://github.com/briannesbitt/Carbon/releases/tag/3.2.4) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.33.0](https://github.com/Roave/BetterReflection/releases/tag/6.33.0) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.65](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.65) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.28.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.28.0) (2 days ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.2.0](https://github.com/laravel/framework/releases/tag/v11.2.0) (3 days ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.3](https://github.com/briannesbitt/Carbon/releases/tag/3.2.3) (6 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.6](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.6) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.66](https://github.com/phpstan/phpstan/releases/tag/1.10.66) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1) (2 weeks ago)
