@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.4](https://github.com/larastan/larastan/releases/tag/v2.9.4) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.12) (today)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.3](https://github.com/larastan/larastan/releases/tag/v2.9.3) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.3.1](https://github.com/laravel/framework/releases/tag/v11.3.1) (4 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.3) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.33.0](https://github.com/Roave/BetterReflection/releases/tag/6.33.0) (1 week ago)
