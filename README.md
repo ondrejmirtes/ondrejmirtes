@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) - [2.19.4](https://github.com/doctrine/orm/releases/tag/2.19.4) (today)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.4](https://github.com/larastan/larastan/releases/tag/v2.9.4) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.12) (1 day ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.3.1](https://github.com/laravel/framework/releases/tag/v11.3.1) (5 days ago)
