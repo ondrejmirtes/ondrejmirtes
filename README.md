@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.8.4](https://github.com/doctrine/dbal/releases/tag/3.8.4) (today)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.2](https://github.com/doctrine/dbal/releases/tag/4.0.2) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.5.0](https://github.com/laravel/framework/releases/tag/v11.5.0) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (2 days ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.2.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.2.0) (4 days ago)
