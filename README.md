@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.3.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.3.0) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.6.0](https://github.com/laravel/framework/releases/tag/v11.6.0) (4 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (4 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.2](https://github.com/doctrine/dbal/releases/tag/4.0.2) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (1 week ago)
-- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.2.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.2.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.5](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.5) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.69](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.69) (2 weeks ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.5](https://github.com/larastan/larastan/releases/tag/v2.9.5) (2 weeks ago)
