@@ -9,7 +9,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 weeks ago)
@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (today)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.3.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.3.0) (2 days ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.6.0](https://github.com/laravel/framework/releases/tag/v11.6.0) (6 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (6 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.69](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.69) (2 weeks ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.5](https://github.com/larastan/larastan/releases/tag/v2.9.5) (2 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.67](https://github.com/phpstan/phpstan/releases/tag/1.10.67) (2 weeks ago)
 
 ---
 
