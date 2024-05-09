@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.6](https://github.com/larastan/larastan/releases/tag/v2.9.6) (today)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (3 days ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.3.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.3.0) (5 days ago)
@@ -31,7 +32,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.5](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.5) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.69](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.69) (3 weeks ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.5](https://github.com/larastan/larastan/releases/tag/v2.9.5) (3 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1) (3 weeks ago)
 
 ---
