@@ -8,25 +8,25 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 weeks ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 weeks ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 weeks ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 weeks ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 weeks ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 weeks ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 weeks ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.6](https://github.com/larastan/larastan/releases/tag/v2.9.6) (1 day ago)
-- [laravel/framework](https://github.com/laravel/framework) - [v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0) (3 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (4 days ago)
-- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.3.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.3.0) (6 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.6](https://github.com/larastan/larastan/releases/tag/v2.9.6) (2 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - [v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0) (4 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (5 days ago)
+- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.3.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.3.0) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.2](https://github.com/doctrine/dbal/releases/tag/4.0.2) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (2 weeks ago)
