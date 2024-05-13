@@ -23,16 +23,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.4.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.4.0) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.0) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.0) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.0](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.0) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.0) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.6.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.6.0) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.0](https://github.com/phpstan/phpstan/releases/tag/1.11.0) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.6](https://github.com/larastan/larastan/releases/tag/v2.9.6) (4 days ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (1 week ago)
-- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.3.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.3.0) (1 week ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (1 week ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.2](https://github.com/doctrine/dbal/releases/tag/4.0.2) (2 weeks ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (2 weeks ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.5](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.5) (3 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.69](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.69) (3 weeks ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1) (3 weeks ago)
 
 ---
 
