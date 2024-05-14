@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.4.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.4.0) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.4.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.4.0) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.0) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.0) (1 day ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.0](https://github.com/phpstan/phpstan/releases/tag/1.11.0) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.6](https://github.com/larastan/larastan/releases/tag/v2.9.6) (5 days ago)
 - [laravel/framework](https://github.com/laravel/framework) - [v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (1 week ago)
 
 ---
 
