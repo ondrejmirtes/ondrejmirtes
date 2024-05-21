@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) - [v11.8.0](https://github.com/laravel/framework/releases/tag/v11.8.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.1](https://github.com/phpstan/phpstan/releases/tag/1.11.1) (6 days ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.4.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.4.0) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.4.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.4.0) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.6.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.6.0) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.6](https://github.com/larastan/larastan/releases/tag/v2.9.6) (1 week ago)
-- [laravel/framework](https://github.com/laravel/framework) - [v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0) (2 weeks ago)
 
 ---
 
