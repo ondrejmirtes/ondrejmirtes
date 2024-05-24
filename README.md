@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.2](https://github.com/phpstan/phpstan/releases/tag/1.11.2) (today)
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0) (1 day ago)
@@ -31,7 +32,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.4.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.4.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.0) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.0) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.0](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.0) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.0) (1 week ago)
 
 ---
