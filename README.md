@@ -8,11 +8,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) (1 week ago)
+- [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 month ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) - [v11.10.0](https://github.com/laravel/framework/releases/tag/v11.10.0) (today)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.3.0](https://github.com/shopware/shopware/releases/tag/v6.6.3.0) (today)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (4 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (4 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.3) (5 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - [v11.10.0](https://github.com/laravel/framework/releases/tag/v11.10.0) (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.3.0](https://github.com/shopware/shopware/releases/tag/v6.6.3.0) (1 day ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (5 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (5 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.3) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.1) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.7](https://github.com/larastan/larastan/releases/tag/v2.9.7) (1 week ago)
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0) (1 week ago)
