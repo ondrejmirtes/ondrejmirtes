@@ -23,7 +23,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) - [v11.10.0](https://github.com/laravel/framework/releases/tag/v11.10.0) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.3.0](https://github.com/shopware/shopware/releases/tag/v6.6.3.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (5 days ago)
@@ -33,6 +32,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.7](https://github.com/larastan/larastan/releases/tag/v2.9.7) (1 week ago)
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0) (1 week ago)
+- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.4.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.4.0) (3 weeks ago)
 
 ---
 
