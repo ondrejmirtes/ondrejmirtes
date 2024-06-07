@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.2) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.4) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.1](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.1) (today)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.0](https://github.com/phpstan/extension-installer/releases/tag/1.4.0) (1 day ago)
@@ -30,7 +31,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.3.0](https://github.com/shopware/shopware/releases/tag/v6.6.3.0) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.1) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.7](https://github.com/larastan/larastan/releases/tag/v2.9.7) (1 week ago)
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0) (2 weeks ago)
 
