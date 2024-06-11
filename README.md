@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
