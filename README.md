@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.3](https://github.com/doctrine/dbal/releases/tag/4.0.3) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.2.24](https://github.com/composer/composer/releases/tag/2.2.24) (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.11](https://github.com/shopware/shopware/releases/tag/v6.5.8.11) (2 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.1](https://github.com/phpstan/extension-installer/releases/tag/1.4.1) (2 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.4](https://github.com/phpstan/phpstan/releases/tag/1.11.4) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (1 week ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.7](https://github.com/larastan/larastan/releases/tag/v2.9.7) (2 weeks ago)
 
 ---
 
