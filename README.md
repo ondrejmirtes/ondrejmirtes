@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 weeks ago)
@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.3](https://github.com/doctrine/dbal/releases/tag/4.0.3) (2 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.2.24](https://github.com/composer/composer/releases/tag/2.2.24) (4 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.11](https://github.com/shopware/shopware/releases/tag/v6.5.8.11) (4 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.1](https://github.com/phpstan/extension-installer/releases/tag/1.4.1) (4 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.3) (6 days ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.3](https://github.com/doctrine/dbal/releases/tag/4.0.3) (3 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.2.24](https://github.com/composer/composer/releases/tag/2.2.24) (5 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.11](https://github.com/shopware/shopware/releases/tag/v6.5.8.11) (5 days ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.1](https://github.com/phpstan/extension-installer/releases/tag/1.4.1) (5 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.3) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.4) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.1](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.1) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.4](https://github.com/phpstan/phpstan/releases/tag/1.11.4) (1 week ago)
