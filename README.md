@@ -16,13 +16,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 month ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.38.0](https://github.com/Roave/BetterReflection/releases/tag/6.38.0) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.3](https://github.com/doctrine/dbal/releases/tag/4.0.3) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.24](https://github.com/composer/composer/releases/tag/2.2.24) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.11](https://github.com/shopware/shopware/releases/tag/v6.5.8.11) (1 week ago)
@@ -31,7 +32,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.4) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.1](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.1) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.4](https://github.com/phpstan/phpstan/releases/tag/1.11.4) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (2 weeks ago)
 
 ---
