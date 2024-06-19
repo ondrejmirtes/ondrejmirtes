@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.8.6](https://github.com/doctrine/dbal/releases/tag/3.8.6) (today)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.4](https://github.com/doctrine/dbal/releases/tag/4.0.4) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.3.1](https://github.com/shopware/shopware/releases/tag/v6.6.3.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.39.0](https://github.com/Roave/BetterReflection/releases/tag/6.39.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.5](https://github.com/phpstan/phpstan/releases/tag/1.11.5) (2 days ago)
