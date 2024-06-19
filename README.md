@@ -8,24 +8,24 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 weeks ago)
-- [composer/composer](https://github.com/composer/composer) (3 weeks ago)
+- [composer/composer](https://github.com/composer/composer) (4 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 month ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 months ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 months ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.39.0](https://github.com/Roave/BetterReflection/releases/tag/6.39.0) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.5](https://github.com/phpstan/phpstan/releases/tag/1.11.5) (1 day ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.3](https://github.com/doctrine/dbal/releases/tag/4.0.3) (6 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.39.0](https://github.com/Roave/BetterReflection/releases/tag/6.39.0) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.5](https://github.com/phpstan/phpstan/releases/tag/1.11.5) (2 days ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.3](https://github.com/doctrine/dbal/releases/tag/4.0.3) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.24](https://github.com/composer/composer/releases/tag/2.2.24) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.11](https://github.com/shopware/shopware/releases/tag/v6.5.8.11) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.1](https://github.com/phpstan/extension-installer/releases/tag/1.4.1) (1 week ago)
