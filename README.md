@@ -17,7 +17,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 month ago)
 - [composer/composer](https://github.com/composer/composer) (1 month ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 months ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 months ago)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (2 months ago)
 
 ---
 
