@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (3 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.5) (1 day ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.4.0](https://github.com/shopware/shopware/releases/tag/v6.6.4.0) (1 day ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.1.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.1.0) (2 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.2](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.2) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.6](https://github.com/phpstan/phpstan/releases/tag/1.11.6) (2 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (6 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.5) (2 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.4.0](https://github.com/shopware/shopware/releases/tag/v6.6.4.0) (2 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.1.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.1.0) (3 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.2](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.2) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.6](https://github.com/phpstan/phpstan/releases/tag/1.11.6) (3 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.5) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.4](https://github.com/doctrine/dbal/releases/tag/4.0.4) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.39.0](https://github.com/Roave/BetterReflection/releases/tag/6.39.0) (2 weeks ago)
