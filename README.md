@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.7](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.7) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.5) (3 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.4.0](https://github.com/shopware/shopware/releases/tag/v6.6.4.0) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.1.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.1.0) (4 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.5) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.4](https://github.com/doctrine/dbal/releases/tag/4.0.4) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.39.0](https://github.com/Roave/BetterReflection/releases/tag/6.39.0) (2 weeks ago)
-- [composer/composer](https://github.com/composer/composer) - [2.2.24](https://github.com/composer/composer/releases/tag/2.2.24) (3 weeks ago)
 
 ---
 
