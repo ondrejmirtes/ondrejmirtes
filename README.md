@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 weeks ago)
@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.85](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.85) (1 day ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.8](https://github.com/larastan/larastan/releases/tag/v2.9.8) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.7](https://github.com/phpstan/phpstan/releases/tag/1.11.7) (2 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.7](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.7) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.5) (6 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.4.0](https://github.com/shopware/shopware/releases/tag/v6.6.4.0) (6 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.85](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.85) (2 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.8](https://github.com/larastan/larastan/releases/tag/v2.9.8) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.7](https://github.com/phpstan/phpstan/releases/tag/1.11.7) (3 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.7](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.7) (4 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.5) (1 week ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.4.0](https://github.com/shopware/shopware/releases/tag/v6.6.4.0) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.1.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.1.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.2](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.2) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (1 week ago)
