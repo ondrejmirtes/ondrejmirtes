@@ -28,11 +28,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.8](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.8) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.4.1](https://github.com/shopware/shopware/releases/tag/v6.6.4.1) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.8](https://github.com/larastan/larastan/releases/tag/v2.9.8) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.7](https://github.com/phpstan/phpstan/releases/tag/1.11.7) (2 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.7](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.7) (2 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.1.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.1.0) (3 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.2](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.2) (3 weeks ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (3 weeks ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.4](https://github.com/doctrine/dbal/releases/tag/4.0.4) (1 month ago)
 
 ---
 
