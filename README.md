@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.4](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.4) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.5](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.5) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.9](https://github.com/phpstan/phpstan/releases/tag/1.11.9) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.92](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.92) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.6) (2 weeks ago)
