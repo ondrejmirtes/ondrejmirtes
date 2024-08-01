@@ -9,12 +9,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 month ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 month ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 month ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [composer/composer](https://github.com/composer/composer) (2 months ago)
@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.4](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.4) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.9](https://github.com/phpstan/phpstan/releases/tag/1.11.9) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.92](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.92) (6 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.3](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.3) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.8](https://github.com/phpstan/phpstan/releases/tag/1.11.8) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.6) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.8](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.8) (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.4.1](https://github.com/shopware/shopware/releases/tag/v6.6.4.1) (2 weeks ago)
