@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.93](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.93) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.41.0](https://github.com/Roave/BetterReflection/releases/tag/6.41.0) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.5](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.5) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.9](https://github.com/phpstan/phpstan/releases/tag/1.11.9) (4 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.92](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.92) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.6) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.4.8](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.4.8) (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.4.1](https://github.com/shopware/shopware/releases/tag/v6.6.4.1) (3 weeks ago)
