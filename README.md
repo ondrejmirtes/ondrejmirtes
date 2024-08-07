@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.5](https://github.com/doctrine/dbal/releases/tag/4.0.5) (today)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.8.7](https://github.com/doctrine/dbal/releases/tag/3.8.7) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.5.0](https://github.com/shopware/shopware/releases/tag/v6.6.5.0) (1 day ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.9](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.9) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.0) (2 days ago)
