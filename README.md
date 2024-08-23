@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.2) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.7.8](https://github.com/composer/composer/releases/tag/2.7.8) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.1) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.11](https://github.com/phpstan/phpstan/releases/tag/1.11.11) (4 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (4 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (4 days ago)
