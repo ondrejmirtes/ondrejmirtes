@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.2](https://github.com/phpstan/extension-installer/releases/tag/1.4.2) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.8](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.8) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.2) (3 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (3 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.1.0](https://github.com/doctrine/dbal/releases/tag/4.1.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.8) (1 week ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.95](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.95) (2 weeks ago)
 
 ---
 
