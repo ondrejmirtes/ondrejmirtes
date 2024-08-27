@@ -10,9 +10,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (2 weeks ago)
@@ -23,13 +23,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.97](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.97) (today)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.2](https://github.com/phpstan/extension-installer/releases/tag/1.4.2) (today)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.8](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.8) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.2) (3 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (3 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.7.8](https://github.com/composer/composer/releases/tag/2.7.8) (4 days ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.97](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.97) (1 day ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.2](https://github.com/phpstan/extension-installer/releases/tag/1.4.2) (1 day ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.8](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.8) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.2) (4 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (4 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.7.8](https://github.com/composer/composer/releases/tag/2.7.8) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.11](https://github.com/phpstan/phpstan/releases/tag/1.11.11) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (1 week ago)
