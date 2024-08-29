@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.0) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.99](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.99) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.0](https://github.com/phpstan/phpstan/releases/tag/1.12.0) (2 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2) (3 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.7.8](https://github.com/composer/composer/releases/tag/2.7.8) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (1 week ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (1 week ago)
 
 ---
 
