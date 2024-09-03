@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.1](https://github.com/phpstan/phpstan/releases/tag/1.12.1) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.6.0](https://github.com/shopware/shopware/releases/tag/v6.6.6.0) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.1.1](https://github.com/doctrine/dbal/releases/tag/4.1.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.101](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.101) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.3) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.0) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.0](https://github.com/phpstan/phpstan/releases/tag/1.12.0) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.2](https://github.com/phpstan/extension-installer/releases/tag/1.4.2) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.8](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.8) (1 week ago)
