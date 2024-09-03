@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.6.0](https://github.com/shopware/shopware/releases/tag/v6.6.6.0) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.1.1](https://github.com/doctrine/dbal/releases/tag/4.1.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.101](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.101) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.3) (2 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.2](https://github.com/phpstan/extension-installer/releases/tag/1.4.2) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.8](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.8) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.7.8](https://github.com/composer/composer/releases/tag/2.7.8) (1 week ago)
 
 ---
 
