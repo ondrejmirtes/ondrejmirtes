@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.14](https://github.com/shopware/shopware/releases/tag/v6.5.8.14) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.1](https://github.com/phpstan/phpstan/releases/tag/1.12.1) (1 day ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.6.0](https://github.com/shopware/shopware/releases/tag/v6.6.6.0) (1 day ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.1.1](https://github.com/doctrine/dbal/releases/tag/4.1.1) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.101](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.101) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.3) (3 days ago)
