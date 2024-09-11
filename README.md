@@ -8,31 +8,31 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (today)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (3 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (5 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (5 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (5 days ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.103](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.103) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.104](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.104) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.1) (today)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.11](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.11) (today)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.3](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.3) (today)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [1.0.2](https://github.com/phpstan/phpstan-dibi/releases/tag/1.0.2) (today)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.3](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.3) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.3](https://github.com/phpstan/phpstan/releases/tag/1.12.3) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.1) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.9](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.9) (6 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.4.3](https://github.com/phpstan/extension-installer/releases/tag/1.4.3) (1 week ago)
-- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [1.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/1.1.0) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.7.9](https://github.com/composer/composer/releases/tag/2.7.9) (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.14](https://github.com/shopware/shopware/releases/tag/v6.5.8.14) (1 week ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.1.1](https://github.com/doctrine/dbal/releases/tag/4.1.1) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.3) (1 week ago)
 
 ---
 
