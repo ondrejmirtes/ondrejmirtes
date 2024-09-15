@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.2.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.2.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.42.0](https://github.com/Roave/BetterReflection/releases/tag/6.42.0) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.104](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.104) (4 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.1) (4 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.3](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.3) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.3](https://github.com/phpstan/phpstan/releases/tag/1.12.3) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.1) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.9](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.9) (1 week ago)
 
 ---
 
