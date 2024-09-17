@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.2](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.2) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.106](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.106) (today)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.2.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.2.0) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.42.0](https://github.com/Roave/BetterReflection/releases/tag/6.42.0) (5 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.1) (6 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.11](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.11) (6 days ago)
