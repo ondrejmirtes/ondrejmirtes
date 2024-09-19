@@ -8,12 +8,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (6 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.4](https://github.com/phpstan/phpstan/releases/tag/1.12.4) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.6.1](https://github.com/shopware/shopware/releases/tag/v6.6.6.1) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.2](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.2) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.106](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.106) (2 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.3](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.3) (1 week ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [1.0.2](https://github.com/phpstan/phpstan-dibi/releases/tag/1.0.2) (1 week ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.3](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.3) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.3](https://github.com/phpstan/phpstan/releases/tag/1.12.3) (1 week ago)
 
 ---
 
