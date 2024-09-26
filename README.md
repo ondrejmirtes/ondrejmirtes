@@ -8,23 +8,23 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.32.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.32.0) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.109](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.109) (2 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.31.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.31.0) (4 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.6.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.6.1) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.4](https://github.com/phpstan/phpstan/releases/tag/1.12.4) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.6.1](https://github.com/shopware/shopware/releases/tag/v6.6.6.1) (1 week ago)
