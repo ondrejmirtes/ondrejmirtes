@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (4 days ago)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) - [2.8.0](https://github.com/composer/composer/releases/tag/2.8.0) (2 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.8.1](https://github.com/composer/composer/releases/tag/2.8.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.0](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.0) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.4) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.10](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.10) (1 week ago)
