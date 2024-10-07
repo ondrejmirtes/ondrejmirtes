@@ -8,13 +8,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [nette/neon](https://github.com/nette/neon) (3 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 days ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 week ago)
