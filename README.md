@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.5.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.5.0) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.2.1](https://github.com/doctrine/dbal/releases/tag/4.2.1) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.19.8](https://github.com/doctrine/orm/releases/tag/2.19.8) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.2](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.2) (2 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [composer/composer](https://github.com/composer/composer) - [2.8.1](https://github.com/composer/composer/releases/tag/2.8.1) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.10](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.10) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.32.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.32.0) (2 weeks ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.6.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.6.1) (3 weeks ago)
 
 ---
 
