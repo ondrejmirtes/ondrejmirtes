@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.3](https://github.com/doctrine/orm/releases/tag/3.2.3) (1 day ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (today)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.5.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.5.0) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.2.1](https://github.com/doctrine/dbal/releases/tag/4.2.1) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.2](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.2) (4 days ago)
