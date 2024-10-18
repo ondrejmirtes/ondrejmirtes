@@ -23,13 +23,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.3](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.3) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.9](https://github.com/larastan/larastan/releases/tag/v2.9.9) (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (5 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (5 days ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.5.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.5.0) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.2.1](https://github.com/doctrine/dbal/releases/tag/4.2.1) (1 week ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.2](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.2) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.3.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.3.1) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.6](https://github.com/phpstan/phpstan/releases/tag/1.12.6) (1 week ago)
 - [nette/neon](https://github.com/nette/neon) - [v3.4.4](https://github.com/nette/neon/releases/tag/v3.4.4) (2 weeks ago)
