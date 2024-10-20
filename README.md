@@ -8,27 +8,27 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (5 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (5 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (6 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (6 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (1 day ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.3](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.3) (1 day ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.9](https://github.com/larastan/larastan/releases/tag/v2.9.9) (3 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0) (5 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (6 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (2 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.3](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.3) (2 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.9](https://github.com/larastan/larastan/releases/tag/v2.9.9) (4 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (1 week ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (1 week ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.5.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.5.0) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.2.1](https://github.com/doctrine/dbal/releases/tag/4.2.1) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.3.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.3.1) (1 week ago)
