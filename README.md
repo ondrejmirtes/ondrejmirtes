@@ -8,23 +8,23 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 week ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 weeks ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (2 weeks ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 weeks ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.5.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.5.1) (1 day ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (3 days ago)
+- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.5.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.5.1) (2 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.3](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.3) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.9](https://github.com/larastan/larastan/releases/tag/v2.9.9) (1 week ago)
