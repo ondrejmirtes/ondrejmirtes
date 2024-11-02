@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.4](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.4) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.11) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.2](https://github.com/composer/composer/releases/tag/2.8.2) (4 days ago)
@@ -30,7 +31,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.5.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.5.1) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (2 weeks ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.9](https://github.com/larastan/larastan/releases/tag/v2.9.9) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (2 weeks ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (2 weeks ago)
 
