@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (3 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 weeks ago)
@@ -23,14 +23,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.1](https://github.com/shopware/shopware/releases/tag/v6.6.8.1) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.12) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.1](https://github.com/briannesbitt/Carbon/releases/tag/3.8.1) (3 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (4 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.4](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.4) (5 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.11) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.2](https://github.com/composer/composer/releases/tag/2.8.2) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.5) (1 week ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.5.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.5.1) (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (3 weeks ago)
 
