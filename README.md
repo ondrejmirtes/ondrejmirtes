@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (3 weeks ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 weeks ago)
@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.8](https://github.com/phpstan/phpstan/releases/tag/1.12.8) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.15](https://github.com/shopware/shopware/releases/tag/v6.5.8.15) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.12) (1 day ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [composer/composer](https://github.com/composer/composer) - [2.8.2](https://github.com/composer/composer/releases/tag/2.8.2) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.5) (1 week ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v3.5.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v3.5.1) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (3 weeks ago)
 
 ---
 
