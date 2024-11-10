@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.9](https://github.com/phpstan/phpstan/releases/tag/1.12.9) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.6](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.6) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.2](https://github.com/briannesbitt/Carbon/releases/tag/3.8.2) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.0) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.8](https://github.com/phpstan/phpstan/releases/tag/1.12.8) (4 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.15](https://github.com/shopware/shopware/releases/tag/v6.5.8.15) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.12) (4 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (1 week ago)
