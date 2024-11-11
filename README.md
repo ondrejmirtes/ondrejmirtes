@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.1](https://github.com/phpstan/phpstan/releases/tag/2.0.1) (today)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v4.0.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v4.0.0) (today)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [2.0.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.0.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (today)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [2.0.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/2.0.0) (today)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [2.0.0](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/2.0.0) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.0](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.0) (today)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.0) (today)
 
 ---
 
