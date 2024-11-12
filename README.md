@@ -8,6 +8,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (1 day ago)
@@ -15,7 +16,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (4 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 weeks ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (4 weeks ago)
 
@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.5](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.5) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.11](https://github.com/larastan/larastan/releases/tag/v2.9.11) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.1](https://github.com/phpstan/phpstan/releases/tag/2.0.1) (1 day ago)
@@ -30,7 +31,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [2.0.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.0.0) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (1 day ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [2.0.0](https://github.com/phpstan/phpstan-dibi/releases/tag/2.0.0) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.0) (1 day ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [2.0.0](https://github.com/phpstan/phpstan-mockery/releases/tag/2.0.0) (1 day ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [2.0.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/2.0.0) (1 day ago)
 
