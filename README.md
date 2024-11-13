@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v4.0.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v4.0.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.6](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.6) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.1) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.11](https://github.com/larastan/larastan/releases/tag/v2.9.11) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.1](https://github.com/phpstan/phpstan/releases/tag/2.0.1) (2 days ago)
-- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v4.0.0](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v4.0.0) (2 days ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [2.0.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.0.0) (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (2 days ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [2.0.0](https://github.com/phpstan/phpstan-dibi/releases/tag/2.0.0) (2 days ago)
