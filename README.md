@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
+- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) (1 week ago)
@@ -23,16 +23,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.2](https://github.com/phpstan/phpstan/releases/tag/2.0.2) (today)
-- [composer/composer](https://github.com/composer/composer) - [2.8.3](https://github.com/composer/composer/releases/tag/2.8.3) (today)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.1](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.1) (2 days ago)
-- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v4.0.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v4.0.1) (4 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.6](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.6) (4 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.1) (5 days ago)
-- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [2.0.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.0.0) (6 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (6 days ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [2.0.0](https://github.com/phpstan/phpstan-dibi/releases/tag/2.0.0) (6 days ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [2.0.0](https://github.com/phpstan/phpstan-mockery/releases/tag/2.0.0) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.2](https://github.com/phpstan/phpstan/releases/tag/2.0.2) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - [2.8.3](https://github.com/composer/composer/releases/tag/2.8.3) (1 day ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.1](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.1) (3 days ago)
+- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v4.0.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v4.0.1) (5 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.6](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.6) (5 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.1) (6 days ago)
+- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [2.0.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.0.0) (1 week ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (1 week ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [2.0.0](https://github.com/phpstan/phpstan-dibi/releases/tag/2.0.0) (1 week ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [2.0.0](https://github.com/phpstan/phpstan-mockery/releases/tag/2.0.0) (1 week ago)
 
 ---
 
