@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.2](https://github.com/phpstan/phpstan/releases/tag/2.0.2) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.3](https://github.com/composer/composer/releases/tag/2.8.3) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.1](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.1) (4 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [2.0.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.0.0) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (1 week ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) - [2.0.0](https://github.com/phpstan/phpstan-dibi/releases/tag/2.0.0) (1 week ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [2.0.0](https://github.com/phpstan/phpstan-mockery/releases/tag/2.0.0) (1 week ago)
 
 ---
 
