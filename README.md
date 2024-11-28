@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.3](https://github.com/phpstan/phpstan/releases/tag/2.0.3) (today)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.1) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.8](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.8) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.2](https://github.com/phpstan/phpstan/releases/tag/2.0.2) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.3](https://github.com/composer/composer/releases/tag/2.8.3) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.1](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.1) (1 week ago)
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v4.0.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v4.0.1) (2 weeks ago)
