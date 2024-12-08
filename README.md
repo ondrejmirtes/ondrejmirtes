@@ -31,8 +31,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.1) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.3](https://github.com/composer/composer/releases/tag/2.8.3) (3 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.1](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.1) (3 weeks ago)
-- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - [v4.0.1](https://github.com/spaze/phpstan-disallowed-calls/releases/tag/v4.0.1) (3 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.1) (3 weeks ago)
+- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) - [2.0.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.0.0) (3 weeks ago)
 
 ---
 
