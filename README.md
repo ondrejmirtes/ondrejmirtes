@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [bladestan/bladestan](https://github.com/bladestan/bladestan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
+- [bladestan/bladestan](https://github.com/bladestan/bladestan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (1 month ago)
@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.6.0](https://github.com/bladestan/bladestan/releases/tag/0.6.0) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.46.0](https://github.com/Roave/BetterReflection/releases/tag/6.46.0) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.2.25](https://github.com/composer/composer/releases/tag/2.2.25) (5 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0) (1 week ago)
+- [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.6.0](https://github.com/bladestan/bladestan/releases/tag/0.6.0) (3 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.46.0](https://github.com/Roave/BetterReflection/releases/tag/6.46.0) (5 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.2.25](https://github.com/composer/composer/releases/tag/2.2.25) (6 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.1) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.9](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.9) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.3](https://github.com/phpstan/phpstan/releases/tag/2.0.3) (2 weeks ago)
