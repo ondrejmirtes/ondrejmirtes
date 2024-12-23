@@ -17,7 +17,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (1 month ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) (1 month ago)
 
 ---
 
