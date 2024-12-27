@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.3](https://github.com/briannesbitt/Carbon/releases/tag/3.8.3) (6 days ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.6](https://github.com/briannesbitt/Carbon/releases/tag/2.72.6) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.49.0](https://github.com/Roave/BetterReflection/releases/tag/6.49.0) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.3) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.1](https://github.com/doctrine/orm/releases/tag/3.3.1) (1 week ago)
