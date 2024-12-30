@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.4.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.4.0) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.6](https://github.com/briannesbitt/Carbon/releases/tag/2.72.6) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.49.0](https://github.com/Roave/BetterReflection/releases/tag/6.49.0) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.3) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.7.0](https://github.com/bladestan/bladestan/releases/tag/0.7.0) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.25](https://github.com/composer/composer/releases/tag/2.2.25) (2 weeks ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0) (3 weeks ago)
 
 ---
 
