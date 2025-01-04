@@ -9,7 +9,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 weeks ago)
 - [vixducis/phpstan-uniontointersection](https://github.com/vixducis/phpstan-uniontointersection) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
@@ -17,12 +18,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (1 month ago)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.0](https://github.com/phpstan/phpstan/releases/tag/2.1.0) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.51.0](https://github.com/Roave/BetterReflection/releases/tag/6.51.0) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.4.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.4.0) (5 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.1) (2 weeks ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.7.0](https://github.com/bladestan/bladestan/releases/tag/0.7.0) (2 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (2 weeks ago)
-- [composer/composer](https://github.com/composer/composer) - [2.2.25](https://github.com/composer/composer/releases/tag/2.2.25) (3 weeks ago)
 
 ---
 
