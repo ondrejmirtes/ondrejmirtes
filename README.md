@@ -8,13 +8,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 weeks ago)
 - [vixducis/phpstan-uniontointersection](https://github.com/vixducis/phpstan-uniontointersection) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
-- [bladestan/bladestan](https://github.com/bladestan/bladestan) (2 weeks ago)
+- [bladestan/bladestan](https://github.com/bladestan/bladestan) (3 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (1 month ago)
@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.1](https://github.com/phpstan/phpstan/releases/tag/2.1.1) (today)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.1) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.51.0](https://github.com/Roave/BetterReflection/releases/tag/6.51.0) (6 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.4.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.4.0) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.1](https://github.com/phpstan/phpstan/releases/tag/2.1.1) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.1) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.51.0](https://github.com/Roave/BetterReflection/releases/tag/6.51.0) (1 week ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.4.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.4.0) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.6](https://github.com/briannesbitt/Carbon/releases/tag/2.72.6) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.3) (2 weeks ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.1](https://github.com/doctrine/orm/releases/tag/3.3.1) (2 weeks ago)
