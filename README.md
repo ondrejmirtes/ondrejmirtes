@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.2](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.2) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.52.0](https://github.com/Roave/BetterReflection/releases/tag/6.52.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.1](https://github.com/phpstan/phpstan/releases/tag/2.1.1) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.1) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.1](https://github.com/doctrine/orm/releases/tag/3.3.1) (3 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.1) (4 weeks ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.7.0](https://github.com/bladestan/bladestan/releases/tag/0.7.0) (4 weeks ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (4 weeks ago)
 
 ---
 
