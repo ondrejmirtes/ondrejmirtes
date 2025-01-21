@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.2) (2 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.3) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.2.2](https://github.com/doctrine/dbal/releases/tag/4.2.2) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.2](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.2) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.52.0](https://github.com/Roave/BetterReflection/releases/tag/6.52.0) (2 weeks ago)
