@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.8.0](https://github.com/bladestan/bladestan/releases/tag/0.8.0) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.2](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.2) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.2](https://github.com/phpstan/phpstan/releases/tag/2.1.2) (1 day ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.2](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.2) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.52.0](https://github.com/Roave/BetterReflection/releases/tag/6.52.0) (2 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.4.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.4.0) (3 weeks ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.6](https://github.com/briannesbitt/Carbon/releases/tag/2.72.6) (3 weeks ago)
 
 ---
 
