@@ -8,22 +8,22 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (4 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (4 days ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (6 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (1 week ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.8.0](https://github.com/bladestan/bladestan/releases/tag/0.8.0) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.2](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.2) (1 week ago)
