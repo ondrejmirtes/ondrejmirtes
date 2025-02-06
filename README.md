@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.55.0](https://github.com/Roave/BetterReflection/releases/tag/6.55.0) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.2](https://github.com/doctrine/orm/releases/tag/3.3.2) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (1 week ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.8.0](https://github.com/bladestan/bladestan/releases/tag/0.8.0) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.2](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.2) (2 weeks ago)
