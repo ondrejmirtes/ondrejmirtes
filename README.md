@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.3.2](https://github.com/doctrine/orm/releases/tag/3.3.2) (today)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.3.2](https://github.com/doctrine/orm/releases/tag/3.3.2) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (1 week ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.8.0](https://github.com/bladestan/bladestan/releases/tag/0.8.0) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (2 weeks ago)
@@ -31,7 +31,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.2](https://github.com/phpstan/phpstan/releases/tag/2.1.2) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.5](https://github.com/composer/composer/releases/tag/2.8.5) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.3) (2 weeks ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.2.2](https://github.com/doctrine/dbal/releases/tag/4.2.2) (2 weeks ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.2.2](https://github.com/doctrine/dbal/releases/tag/4.2.2) (3 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.2](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.2) (3 weeks ago)
 
 ---
