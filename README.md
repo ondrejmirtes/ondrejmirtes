@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.5](https://github.com/briannesbitt/Carbon/releases/tag/3.8.5) (today)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.10.0](https://github.com/bladestan/bladestan/releases/tag/0.10.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.4](https://github.com/phpstan/phpstan/releases/tag/2.1.4) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.56.0](https://github.com/Roave/BetterReflection/releases/tag/6.56.0) (2 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.2](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.2) (3 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.5](https://github.com/composer/composer/releases/tag/2.8.5) (3 weeks ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.3) (3 weeks ago)
 
 ---
 
