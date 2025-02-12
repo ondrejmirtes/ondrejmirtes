@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.11](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.11) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.5](https://github.com/briannesbitt/Carbon/releases/tag/3.8.5) (1 day ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.10.0](https://github.com/bladestan/bladestan/releases/tag/0.10.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.4](https://github.com/phpstan/phpstan/releases/tag/2.1.4) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.56.0](https://github.com/Roave/BetterReflection/releases/tag/6.56.0) (3 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.10](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.10) (3 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (5 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.2](https://github.com/doctrine/orm/releases/tag/3.3.2) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (3 weeks ago)
