@@ -14,10 +14,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 weeks ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 weeks ago)
 
 ---
 
