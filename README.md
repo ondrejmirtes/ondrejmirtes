@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.0](https://github.com/shopware/shopware/releases/tag/v6.6.10.0) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.2](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.2) (2 days ago)
 - [Jan0707/phpstan-prophecy](https://github.com/Jan0707/phpstan-prophecy) - [2.1.1](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.1.1) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.5](https://github.com/phpstan/phpstan/releases/tag/2.1.5) (6 days ago)
@@ -31,7 +32,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.11](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.11) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.5](https://github.com/briannesbitt/Carbon/releases/tag/3.8.5) (1 week ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.10.0](https://github.com/bladestan/bladestan/releases/tag/0.10.0) (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.2](https://github.com/doctrine/orm/releases/tag/3.3.2) (2 weeks ago)
 
 ---
