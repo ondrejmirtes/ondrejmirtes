@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.6](https://github.com/briannesbitt/Carbon/releases/tag/3.8.6) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.1](https://github.com/shopware/shopware/releases/tag/v6.6.10.1) (today)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.0](https://github.com/bladestan/bladestan/releases/tag/0.11.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.6](https://github.com/phpstan/phpstan/releases/tag/2.1.6) (1 day ago)
@@ -31,7 +32,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.57.0](https://github.com/Roave/BetterReflection/releases/tag/6.57.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.3](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.3) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.11](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.11) (1 week ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.5](https://github.com/briannesbitt/Carbon/releases/tag/3.8.5) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.2](https://github.com/doctrine/orm/releases/tag/3.3.2) (2 weeks ago)
 
 ---
