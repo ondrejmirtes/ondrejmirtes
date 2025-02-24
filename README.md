@@ -15,9 +15,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 weeks ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (3 weeks ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 weeks ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 weeks ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 weeks ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 weeks ago)
 
 ---
 
