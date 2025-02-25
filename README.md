@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.8.6](https://github.com/composer/composer/releases/tag/2.8.6) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.16.0](https://github.com/slevomat/coding-standard/releases/tag/8.16.0) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.6](https://github.com/briannesbitt/Carbon/releases/tag/3.8.6) (5 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.1](https://github.com/shopware/shopware/releases/tag/v6.6.10.1) (5 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Jan0707/phpstan-prophecy](https://github.com/Jan0707/phpstan-prophecy) - [2.1.1](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.1.1) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.57.0](https://github.com/Roave/BetterReflection/releases/tag/6.57.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.3](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.3) (1 week ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.11](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.11) (1 week ago)
 
 ---
 
