@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.1](https://github.com/bladestan/bladestan/releases/tag/0.11.1) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.8.6](https://github.com/composer/composer/releases/tag/2.8.6) (2 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.16.0](https://github.com/slevomat/coding-standard/releases/tag/8.16.0) (4 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.6](https://github.com/briannesbitt/Carbon/releases/tag/3.8.6) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.1](https://github.com/shopware/shopware/releases/tag/v6.6.10.1) (1 week ago)
-- [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.0](https://github.com/bladestan/bladestan/releases/tag/0.11.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.6](https://github.com/phpstan/phpstan/releases/tag/2.1.6) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.1.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.1.0) (1 week ago)
 - [Jan0707/phpstan-prophecy](https://github.com/Jan0707/phpstan-prophecy) - [2.1.1](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.1.1) (2 weeks ago)
