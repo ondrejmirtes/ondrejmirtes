@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.2) (today)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.1](https://github.com/bladestan/bladestan/releases/tag/0.11.1) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.6](https://github.com/composer/composer/releases/tag/2.8.6) (6 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.16.0](https://github.com/slevomat/coding-standard/releases/tag/8.16.0) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.1.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.1.0) (1 week ago)
 - [Jan0707/phpstan-prophecy](https://github.com/Jan0707/phpstan-prophecy) - [2.1.1](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.1.1) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.57.0](https://github.com/Roave/BetterReflection/releases/tag/6.57.0) (2 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.3](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.3) (2 weeks ago)
 
 ---
 
