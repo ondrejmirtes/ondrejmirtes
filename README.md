@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.7](https://github.com/phpstan/phpstan/releases/tag/2.1.7) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.8](https://github.com/phpstan/phpstan/releases/tag/2.1.8) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.2) (6 days ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.1](https://github.com/bladestan/bladestan/releases/tag/0.11.1) (1 week ago)
