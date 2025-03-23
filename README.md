@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.9](https://github.com/phpstan/phpstan/releases/tag/2.1.9) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.3](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.3) (4 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.4) (5 days ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.2](https://github.com/bladestan/bladestan/releases/tag/0.11.2) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.8](https://github.com/phpstan/phpstan/releases/tag/2.1.8) (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.2) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.6](https://github.com/composer/composer/releases/tag/2.8.6) (3 weeks ago)
