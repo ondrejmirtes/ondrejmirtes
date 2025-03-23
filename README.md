@@ -8,6 +8,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
@@ -17,13 +18,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Jan0707/phpstan-prophecy](https://github.com/Jan0707/phpstan-prophecy) (1 month ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 month ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 month ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.9](https://github.com/phpstan/phpstan/releases/tag/2.1.9) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.10](https://github.com/phpstan/phpstan/releases/tag/2.1.10) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.3](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.3) (4 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.4) (5 days ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.2](https://github.com/bladestan/bladestan/releases/tag/0.11.2) (1 week ago)
