@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.16.2](https://github.com/slevomat/coding-standard/releases/tag/8.16.2) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.6) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc1](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc1) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.11](https://github.com/phpstan/phpstan/releases/tag/2.1.11) (3 days ago)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.16.1](https://github.com/slevomat/coding-standard/releases/tag/8.16.1) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.3](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.3) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.4) (1 week ago)
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.2](https://github.com/bladestan/bladestan/releases/tag/0.11.2) (2 weeks ago)
