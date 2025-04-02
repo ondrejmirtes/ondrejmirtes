@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.9.0](https://github.com/briannesbitt/Carbon/releases/tag/3.9.0) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.4](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.4) (5 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.16.2](https://github.com/slevomat/coding-standard/releases/tag/8.16.2) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.6) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.2](https://github.com/bladestan/bladestan/releases/tag/0.11.2) (3 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.2) (1 month ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.6](https://github.com/composer/composer/releases/tag/2.8.6) (1 month ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.6](https://github.com/briannesbitt/Carbon/releases/tag/3.8.6) (1 month ago)
 
 ---
 
