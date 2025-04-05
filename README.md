@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) - [2.8.8](https://github.com/composer/composer/releases/tag/2.8.8) (today)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.9.0](https://github.com/briannesbitt/Carbon/releases/tag/3.9.0) (2 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.8.8](https://github.com/composer/composer/releases/tag/2.8.8) (1 day ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.9.0](https://github.com/briannesbitt/Carbon/releases/tag/3.9.0) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.4](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.4) (1 week ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.16.2](https://github.com/slevomat/coding-standard/releases/tag/8.16.2) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.6) (1 week ago)
