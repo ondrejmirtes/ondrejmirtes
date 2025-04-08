@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc2](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc2) (today)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.8.8](https://github.com/composer/composer/releases/tag/2.8.8) (4 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.9.0](https://github.com/briannesbitt/Carbon/releases/tag/3.9.0) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.4](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.4) (1 week ago)
