@@ -8,13 +8,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [ondrejmirtes/linuxserver-docker-tvheadend](https://github.com/ondrejmirtes/linuxserver-docker-tvheadend) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 weeks ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 month ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
 - [Jan0707/phpstan-prophecy](https://github.com/Jan0707/phpstan-prophecy) (1 month ago)
@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.17.0](https://github.com/slevomat/coding-standard/releases/tag/8.17.0) (today)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (2 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.8.8](https://github.com/composer/composer/releases/tag/2.8.8) (6 days ago)
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.17.0](https://github.com/slevomat/coding-standard/releases/tag/8.17.0) (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (3 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.8.8](https://github.com/composer/composer/releases/tag/2.8.8) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.9.0](https://github.com/briannesbitt/Carbon/releases/tag/3.9.0) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.4](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.4) (1 week ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.4](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.4) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.6) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.11](https://github.com/phpstan/phpstan/releases/tag/2.1.11) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.4) (3 weeks ago)
