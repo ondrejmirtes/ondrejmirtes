@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.17.1](https://github.com/slevomat/coding-standard/releases/tag/8.17.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.12](https://github.com/phpstan/phpstan/releases/tag/2.1.12) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.12](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.12) (1 week ago)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.17.0](https://github.com/slevomat/coding-standard/releases/tag/8.17.0) (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.8](https://github.com/composer/composer/releases/tag/2.8.8) (3 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.9.0](https://github.com/briannesbitt/Carbon/releases/tag/3.9.0) (3 weeks ago)
