@@ -23,13 +23,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.9.1](https://github.com/briannesbitt/Carbon/releases/tag/3.9.1) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.18.0](https://github.com/slevomat/coding-standard/releases/tag/8.18.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc3](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc3) (2 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.2](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.2) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.13](https://github.com/phpstan/phpstan/releases/tag/2.1.13) (4 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.12](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.12) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.8](https://github.com/composer/composer/releases/tag/2.8.8) (3 weeks ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.9.0](https://github.com/briannesbitt/Carbon/releases/tag/3.9.0) (4 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.4](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.4) (1 month ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.6) (1 month ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.4) (1 month ago)
