@@ -8,7 +8,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.5](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.5) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.8.9](https://github.com/composer/composer/releases/tag/2.8.9) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.18](https://github.com/shopware/shopware/releases/tag/v6.5.8.18) (1 day ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [2.0.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/2.0.1) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.18.0](https://github.com/slevomat/coding-standard/releases/tag/8.18.0) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.2](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.2) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.12](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.12) (4 weeks ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.4](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.4) (1 month ago)
 
 ---
 
