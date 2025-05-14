@@ -8,8 +8,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 weeks ago)
@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.5](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.5) (today)
-- [composer/composer](https://github.com/composer/composer) - [2.8.9](https://github.com/composer/composer/releases/tag/2.8.9) (today)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.18](https://github.com/shopware/shopware/releases/tag/v6.5.8.18) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.5](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.5) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) - [2.8.9](https://github.com/composer/composer/releases/tag/2.8.9) (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.18](https://github.com/shopware/shopware/releases/tag/v6.5.8.18) (2 days ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [2.0.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/2.0.1) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.3) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.14](https://github.com/phpstan/phpstan/releases/tag/2.1.14) (1 week ago)
