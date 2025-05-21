@@ -8,11 +8,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 month ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [ondrejmirtes/linuxserver-docker-tvheadend](https://github.com/ondrejmirtes/linuxserver-docker-tvheadend) (1 month ago)
@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.16](https://github.com/phpstan/phpstan/releases/tag/2.1.16) (4 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (5 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (6 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.6](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.6) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.16](https://github.com/phpstan/phpstan/releases/tag/2.1.16) (5 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (6 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (1 week ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.6](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.6) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.8.9](https://github.com/composer/composer/releases/tag/2.8.9) (1 week ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [2.0.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/2.0.1) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.3) (2 weeks ago)
