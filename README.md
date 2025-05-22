@@ -29,10 +29,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.6](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.6) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.8.9](https://github.com/composer/composer/releases/tag/2.8.9) (1 week ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [2.0.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/2.0.1) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.3) (2 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.9.1](https://github.com/briannesbitt/Carbon/releases/tag/3.9.1) (3 weeks ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.12](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.12) (1 month ago)
 
 ---
 
