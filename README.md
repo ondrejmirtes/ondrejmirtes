@@ -8,12 +8,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 month ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 months ago)
 - [ondrejmirtes/linuxserver-docker-tvheadend](https://github.com/ondrejmirtes/linuxserver-docker-tvheadend) (2 months ago)
