@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc5](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc5) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.59.0](https://github.com/Roave/BetterReflection/releases/tag/6.59.0) (1 day ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.18.1](https://github.com/slevomat/coding-standard/releases/tag/8.18.1) (6 days ago)
 - [Jan0707/phpstan-prophecy](https://github.com/Jan0707/phpstan-prophecy) - [2.2.0](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.2.0) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.6](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.6) (2 weeks ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [2.0.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/2.0.1) (3 weeks ago)
