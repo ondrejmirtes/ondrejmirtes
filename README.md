@@ -8,29 +8,29 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [ondrejmirtes/phar-git](https://github.com/ondrejmirtes/phar-git) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 weeks ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 weeks ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 weeks ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (4 weeks ago)
 - [ondrejmirtes/linuxserver-docker-tvheadend](https://github.com/ondrejmirtes/linuxserver-docker-tvheadend) (2 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.19.1](https://github.com/slevomat/coding-standard/releases/tag/8.19.1) (1 day ago)
-- [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.3](https://github.com/bladestan/bladestan/releases/tag/0.11.3) (5 days ago)
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.19.1](https://github.com/slevomat/coding-standard/releases/tag/8.19.1) (2 days ago)
+- [bladestan/bladestan](https://github.com/bladestan/bladestan) - [0.11.3](https://github.com/bladestan/bladestan/releases/tag/0.11.3) (6 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.5.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.5.0) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.59.0](https://github.com/Roave/BetterReflection/releases/tag/6.59.0) (2 weeks ago)
 - [Jan0707/phpstan-prophecy](https://github.com/Jan0707/phpstan-prophecy) - [2.2.0](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.2.0) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (2 weeks ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (3 weeks ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.6](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.6) (3 weeks ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (3 weeks ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (4 weeks ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.6](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.6) (4 weeks ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [2.0.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/2.0.1) (1 month ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.3) (1 month ago)
 
