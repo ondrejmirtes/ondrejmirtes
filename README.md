@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.14](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.14) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.10.0](https://github.com/briannesbitt/Carbon/releases/tag/3.10.0) (5 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.19.1](https://github.com/slevomat/coding-standard/releases/tag/8.19.1) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [Jan0707/phpstan-prophecy](https://github.com/Jan0707/phpstan-prophecy) - [2.2.0](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.2.0) (3 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (3 weeks ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (1 month ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.6](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.6) (1 month ago)
 
 ---
 
