@@ -8,7 +8,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 weeks ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 month ago)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.10.1](https://github.com/briannesbitt/Carbon/releases/tag/3.10.1) (2 weeks ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.10.1](https://github.com/briannesbitt/Carbon/releases/tag/3.10.1) (3 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (3 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.14](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.14) (3 weeks ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.19.1](https://github.com/slevomat/coding-standard/releases/tag/8.19.1) (1 month ago)
