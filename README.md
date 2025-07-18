@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 month ago)
 - [ondrejmirtes/phar-git](https://github.com/ondrejmirtes/phar-git) (1 month ago)
@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.18](https://github.com/phpstan/phpstan/releases/tag/2.1.18) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.2.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.2.0) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.18](https://github.com/phpstan/phpstan/releases/tag/2.1.18) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.2.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.2.0) (5 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.10.1](https://github.com/briannesbitt/Carbon/releases/tag/3.10.1) (3 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (1 month ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.14](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.14) (1 month ago)
