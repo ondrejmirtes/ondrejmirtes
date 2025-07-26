@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.20.0](https://github.com/slevomat/coding-standard/releases/tag/8.20.0) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.7](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.7) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.19](https://github.com/phpstan/phpstan/releases/tag/2.1.19) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.6](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.6) (5 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.10.1](https://github.com/briannesbitt/Carbon/releases/tag/3.10.1) (1 month ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (1 month ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.14](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.14) (1 month ago)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.19.1](https://github.com/slevomat/coding-standard/releases/tag/8.19.1) (1 month ago)
 
 ---
 
