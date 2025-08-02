@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.10.2](https://github.com/briannesbitt/Carbon/releases/tag/3.10.2) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.15](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.15) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.21](https://github.com/phpstan/phpstan/releases/tag/2.1.21) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.0) (6 days ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.7](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.7) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.2.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.2.0) (2 weeks ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.10.1](https://github.com/briannesbitt/Carbon/releases/tag/3.10.1) (1 month ago)
 
 ---
 
