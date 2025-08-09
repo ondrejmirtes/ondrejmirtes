@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.16](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.16) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.17](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.17) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22) (5 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.10.2](https://github.com/briannesbitt/Carbon/releases/tag/3.10.2) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.0) (1 week ago)
