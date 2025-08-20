@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 months ago)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.21](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.21) (today)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.22](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.22) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.1) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22) (2 weeks ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.20.0](https://github.com/slevomat/coding-standard/releases/tag/8.20.0) (3 weeks ago)
