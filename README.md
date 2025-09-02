@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.61.0](https://github.com/Roave/BetterReflection/releases/tag/6.61.0) (today)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.21.1](https://github.com/slevomat/coding-standard/releases/tag/8.21.1) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.0) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.24](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.24) (6 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.60.0](https://github.com/Roave/BetterReflection/releases/tag/6.60.0) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.1) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22) (4 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.7](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.7) (1 month ago)
