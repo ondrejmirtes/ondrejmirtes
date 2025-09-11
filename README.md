@@ -2,7 +2,7 @@ Hi!
 
 I am Ondřej Mirtes. I like pointing out mistakes in other people's code so much that I created [PHPStan](https://phpstan.org/), a popular open-source static analysis tool that focuses on finding bugs in PHP code without running it.
 
-I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](https://github.com/phpstan/) as my full-time job. You can sponsor my work using [GitHub Sponsors](https://github.com/sponsors/ondrejmirtes) Thank you!
+I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](https://github.com/phpstan/). You can sponsor my work using [GitHub Sponsors](https://github.com/sponsors/ondrejmirtes) Thank you!
 
 ---
 
