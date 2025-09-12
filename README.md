@@ -8,13 +8,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
-- [phpstan/build-cs](https://github.com/phpstan/build-cs) (6 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
+- [phpstan/build-cs](https://github.com/phpstan/build-cs) (6 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 weeks ago)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.23](https://github.com/phpstan/phpstan/releases/tag/2.1.23) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.24](https://github.com/phpstan/phpstan/releases/tag/2.1.24) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.6](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.6) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.63.0](https://github.com/Roave/BetterReflection/releases/tag/6.63.0) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.28](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.28) (3 days ago)
