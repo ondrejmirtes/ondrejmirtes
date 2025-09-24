@@ -8,24 +8,24 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [ondrejmirtes/composer-git-dist-test](https://github.com/ondrejmirtes/composer-git-dist-test) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (today)
 - [ondrejmirtes/phpstan-dist-git](https://github.com/ondrejmirtes/phpstan-dist-git) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (today)
+- [ondrejmirtes/composer-git-dist-test](https://github.com/ondrejmirtes/composer-git-dist-test) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 day ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (2 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.31](https://github.com/phpstan/phpstan/releases/tag/1.12.31) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.32](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.32) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.6](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.6) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.28](https://github.com/phpstan/phpstan/releases/tag/2.1.28) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.64.0](https://github.com/Roave/BetterReflection/releases/tag/6.64.0) (5 days ago)
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.23.0](https://github.com/slevomat/coding-standard/releases/tag/8.23.0) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.6](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.6) (2 weeks ago)
