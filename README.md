@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ondrejmirtes/composer-git-dist-test](https://github.com/ondrejmirtes/composer-git-dist-test) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [ondrejmirtes/phpstan-dist-git](https://github.com/ondrejmirtes/phpstan-dist-git) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 days ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (4 days ago)
@@ -23,6 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.7](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.7) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.29](https://github.com/phpstan/phpstan/releases/tag/2.1.29) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.32](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.32) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.6](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.6) (1 week ago)
@@ -31,7 +32,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.8](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.8) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.0) (3 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.1) (1 month ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.6](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.6) (2 months ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.7](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.7) (2 months ago)
 
 ---
