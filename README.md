@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (5 days ago)
 - [ondrejmirtes/composer-git-dist-test](https://github.com/ondrejmirtes/composer-git-dist-test) (6 days ago)
 - [ondrejmirtes/phpstan-dist-git](https://github.com/ondrejmirtes/phpstan-dist-git) (6 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 week ago)
