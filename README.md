@@ -8,13 +8,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [ondrejmirtes/composer-git-dist-test](https://github.com/ondrejmirtes/composer-git-dist-test) (5 days ago)
-- [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [ondrejmirtes/composer-git-dist-test](https://github.com/ondrejmirtes/composer-git-dist-test) (6 days ago)
+- [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (6 days ago)
 - [ondrejmirtes/phpstan-dist-git](https://github.com/ondrejmirtes/phpstan-dist-git) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 week ago)
-- [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 week ago)
+- [phpstan/build-cs](https://github.com/phpstan/build-cs) (2 weeks ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 weeks ago)
@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.30](https://github.com/phpstan/phpstan/releases/tag/2.1.30) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.65.0](https://github.com/Roave/BetterReflection/releases/tag/6.65.0) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.30](https://github.com/phpstan/phpstan/releases/tag/2.1.30) (4 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.65.0](https://github.com/Roave/BetterReflection/releases/tag/6.65.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.7](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.7) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.32](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.32) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.6](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.6) (2 weeks ago)
