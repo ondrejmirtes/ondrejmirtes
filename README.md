@@ -8,7 +8,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 - [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (2 weeks ago)
@@ -16,21 +16,21 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [ondrejmirtes/phpstan-dist-git](https://github.com/ondrejmirtes/phpstan-dist-git) (3 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 weeks ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (3 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 weeks ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 weeks ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 month ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.24.0](https://github.com/slevomat/coding-standard/releases/tag/8.24.0) (1 day ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.33](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.33) (5 days ago)
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - [8.24.0](https://github.com/slevomat/coding-standard/releases/tag/8.24.0) (2 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.33](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.33) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.10) (1 week ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [2.0.2](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/2.0.2) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.65.0](https://github.com/Roave/BetterReflection/releases/tag/6.65.0) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.7](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.7) (3 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.6](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.6) (4 weeks ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.6](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.6) (1 month ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.8](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.8) (1 month ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.0) (1 month ago)
 
