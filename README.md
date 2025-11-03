@@ -14,8 +14,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
-- [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (1 month ago)
 - [ondrejmirtes/composer-git-dist-test](https://github.com/ondrejmirtes/composer-git-dist-test) (1 month ago)
+- [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (1 month ago)
 - [ondrejmirtes/phpstan-dist-git](https://github.com/ondrejmirtes/phpstan-dist-git) (1 month ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 month ago)
 
