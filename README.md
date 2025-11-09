@@ -8,12 +8,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 day ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 days ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [phpstan/phpstan-phar-composer-source](https://github.com/phpstan/phpstan-phar-composer-source) (1 month ago)
 - [ondrejmirtes/composer-git-dist-test](https://github.com/ondrejmirtes/composer-git-dist-test) (1 month ago)
 - [ondrejmirtes/phpstan-dist-git](https://github.com/ondrejmirtes/phpstan-dist-git) (1 month ago)
@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.66.0](https://github.com/Roave/BetterReflection/releases/tag/6.66.0) (4 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.11) (4 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.66.0](https://github.com/Roave/BetterReflection/releases/tag/6.66.0) (5 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.11) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.2) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.33](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.33) (3 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31) (4 weeks ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31) (1 month ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [2.0.2](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/2.0.2) (1 month ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.7](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.7) (1 month ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.6](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.6) (1 month ago)
