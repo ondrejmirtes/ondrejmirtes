@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (2 weeks ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (3 weeks ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 month ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 month ago)
 - [ondrejmirtes/phpunit-test-suite-loader-bug](https://github.com/ondrejmirtes/phpunit-test-suite-loader-bug) (1 month ago)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (2 weeks ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (3 weeks ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (3 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.7](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.7) (1 month ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.33](https://github.com/phpstan/phpstan/releases/tag/2.1.33) (1 month ago)
