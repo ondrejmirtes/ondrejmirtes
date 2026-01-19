@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.68.0](https://github.com/Roave/BetterReflection/releases/tag/6.68.0) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2025.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2025.3) (today)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.67.0](https://github.com/Roave/BetterReflection/releases/tag/6.67.0) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.1](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.1) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (1 month ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (1 month ago)
