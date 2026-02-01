@@ -15,8 +15,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (1 month ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 month ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 month ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 month ago)
 - [ondrejmirtes/phpunit-test-suite-loader-bug](https://github.com/ondrejmirtes/phpunit-test-suite-loader-bug) (1 month ago)
 
 ---
