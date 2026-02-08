@@ -17,7 +17,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (1 month ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 months ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 months ago)
-- [ondrejmirtes/phpunit-test-suite-loader-bug](https://github.com/ondrejmirtes/phpunit-test-suite-loader-bug) (2 months ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 months ago)
 
 ---
 
