@@ -23,15 +23,15 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.15](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.15) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.14) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.13](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.13) (today)
 - [Jan0707/phpstan-prophecy](https://github.com/Jan0707/phpstan-prophecy) - [2.3.0](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.3.0) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.13) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.8](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.8) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.69.0](https://github.com/Roave/BetterReflection/releases/tag/6.69.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.38](https://github.com/phpstan/phpstan/releases/tag/2.1.38) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.8](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.8) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.2](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.2) (2 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.14](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.14) (2 weeks ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.5](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.5) (2 weeks ago)
 
 ---
