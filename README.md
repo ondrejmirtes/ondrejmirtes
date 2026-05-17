@@ -15,9 +15,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 months ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 months ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 months ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 months ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (2 months ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 months ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 months ago)
 
 ---
 
