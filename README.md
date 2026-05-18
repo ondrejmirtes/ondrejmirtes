@@ -10,10 +10,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ondrejmirtes/composer-hang-repro](https://github.com/ondrejmirtes/composer-hang-repro) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 month ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 months ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 months ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 months ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 months ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (2 months ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 months ago)
