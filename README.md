@@ -8,11 +8,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [ondrejmirtes/composer-hang-repro](https://github.com/ondrejmirtes/composer-hang-repro) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [ondrejmirtes/composer-hang-repro](https://github.com/ondrejmirtes/composer-hang-repro) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 month ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 months ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 months ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 months ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (2 months ago)
@@ -23,12 +23,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.35](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.35) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.35](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.35) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.22) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (2 weeks ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (2 weeks ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (3 weeks ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.7](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.7) (1 month ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.16) (3 months ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.4) (3 months ago)
