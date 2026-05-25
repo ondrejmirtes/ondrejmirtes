@@ -8,16 +8,16 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/.github](https://github.com/phpstan/.github) (today)
-- [phpstan/stepsecurity-template-repo](https://github.com/phpstan/stepsecurity-template-repo) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
 
 ---
 
