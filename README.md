@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.56](https://github.com/phpstan/phpstan/releases/tag/2.1.56) (today)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.35](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.35) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.22) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (3 weeks ago)
