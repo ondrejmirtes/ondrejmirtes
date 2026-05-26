@@ -8,28 +8,28 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/.github](https://github.com/phpstan/.github) (today)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/.github](https://github.com/phpstan/.github) (1 day ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (6 days ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.35](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.35) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.22) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (3 weeks ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (3 weeks ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (4 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.16) (3 months ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.4) (3 months ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.9](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.9) (3 months ago)
