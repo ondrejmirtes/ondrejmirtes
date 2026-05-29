@@ -8,22 +8,22 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 days ago)
-- [phpstan/stepsecurity-template-repo](https://github.com/phpstan/stepsecurity-template-repo) (3 days ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (3 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (4 days ago)
+- [phpstan/stepsecurity-template-repo](https://github.com/phpstan/stepsecurity-template-repo) (4 days ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.1](https://github.com/phpstan/phpstan/releases/tag/2.2.1) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.1](https://github.com/phpstan/phpstan/releases/tag/2.2.1) (1 day ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.35](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.35) (1 week ago)
