@@ -9,15 +9,15 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [ondrejmirtes/ondrej.mirtes.cz](https://github.com/ondrejmirtes/ondrej.mirtes.cz) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [ondrejmirtes/ondrej.mirtes.cz](https://github.com/ondrejmirtes/ondrej.mirtes.cz) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (6 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (6 days ago)
 - [phpstan/stepsecurity-template-repo](https://github.com/phpstan/stepsecurity-template-repo) (6 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (6 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (6 days ago)
 
 ---
 
