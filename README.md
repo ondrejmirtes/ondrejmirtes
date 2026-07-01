@@ -23,15 +23,15 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.11](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.11) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.17](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.17) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.3](https://github.com/phpstan/phpstan/releases/tag/2.2.3) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.20](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.20) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.36](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.36) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.27](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.27) (3 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.10](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.10) (3 weeks ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (1 month ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (2 months ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (2 months ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.16) (4 months ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.4) (4 months ago)
 
 ---
