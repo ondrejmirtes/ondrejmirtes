@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.34](https://github.com/phpstan/phpstan/releases/tag/1.12.34) (today)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.5](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.5) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.6](https://github.com/phpstan/phpstan/releases/tag/2.2.6) (2 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.6](https://github.com/phpstan/turbo-ext/releases/tag/2.2.6) (2 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.2) (6 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.12](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.12) (1 week ago)
