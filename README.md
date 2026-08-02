@@ -17,7 +17,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
 - [ondrejmirtes/ondrej.mirtes.cz](https://github.com/ondrejmirtes/ondrej.mirtes.cz) (2 months ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 months ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 months ago)
+- [phpstan/build-cs](https://github.com/phpstan/build-cs) (2 months ago)
 
 ---
 
