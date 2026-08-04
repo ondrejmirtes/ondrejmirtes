@@ -8,13 +8,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 weeks ago)
 - [ondrejmirtes/mcparr](https://github.com/ondrejmirtes/mcparr) (1 month ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 month ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 months ago)
 - [ondrejmirtes/ondrej.mirtes.cz](https://github.com/ondrejmirtes/ondrej.mirtes.cz) (2 months ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 months ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (2 months ago)
@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.7](https://github.com/phpstan/phpstan/releases/tag/2.2.7) (5 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.7](https://github.com/phpstan/turbo-ext/releases/tag/2.2.7) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.7](https://github.com/phpstan/phpstan/releases/tag/2.2.7) (6 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.7](https://github.com/phpstan/turbo-ext/releases/tag/2.2.7) (6 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.5](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.5) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.2) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.12](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.12) (2 weeks ago)
