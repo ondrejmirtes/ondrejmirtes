@@ -12,12 +12,12 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) (2 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 week ago)
+- [php/php-src](https://github.com/php/php-src) (1 month ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 month ago)
 - [ondrejmirtes/mcparr](https://github.com/ondrejmirtes/mcparr) (1 month ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 months ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 months ago)
 - [ondrejmirtes/ondrej.mirtes.cz](https://github.com/ondrejmirtes/ondrej.mirtes.cz) (2 months ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 months ago)
 
 ---
 
@@ -26,13 +26,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.3.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.3.3) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.8](https://github.com/phpstan/phpstan/releases/tag/2.2.8) (1 week ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.8](https://github.com/phpstan/turbo-ext/releases/tag/2.2.8) (1 week ago)
+- [php/php-src](https://github.com/php/php-src) - [php-8.4.24](https://github.com/php/php-src/releases/tag/php-8.4.24) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.5](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.5) (2 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.2) (3 weeks ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - [0.9.0](https://github.com/PHPantom-dev/phpantom_lsp/releases/tag/0.9.0) (3 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.12](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.12) (3 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.28](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.28) (1 month ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.3](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.3) (1 month ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.18](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.18) (1 month ago)
 
 ---
 
