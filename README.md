@@ -8,7 +8,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) (1 week ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 weeks ago)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - [0.10.0](https://github.com/PHPantom-dev/phpantom_lsp/releases/tag/0.10.0) (1 day ago)
+- [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - [0.10.0](https://github.com/PHPantom-dev/phpantom_lsp/releases/tag/0.10.0) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.3.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.3.3) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.8](https://github.com/phpstan/phpstan/releases/tag/2.2.8) (2 weeks ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.8](https://github.com/phpstan/turbo-ext/releases/tag/2.2.8) (2 weeks ago)
