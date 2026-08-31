@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) (3 weeks ago)
@@ -23,8 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.10](https://github.com/phpstan/phpstan/releases/tag/2.2.10) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.10](https://github.com/phpstan/turbo-ext/releases/tag/2.2.10) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.11](https://github.com/phpstan/phpstan/releases/tag/2.2.11) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.11](https://github.com/phpstan/turbo-ext/releases/tag/2.2.11) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.4](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.4) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.0) (3 days ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - [0.10.0](https://github.com/PHPantom-dev/phpantom_lsp/releases/tag/0.10.0) (1 week ago)
@@ -32,7 +33,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.2) (1 month ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.12](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.12) (1 month ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.28](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.28) (1 month ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.3](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.3) (1 month ago)
 
 ---
 
