@@ -23,9 +23,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.11](https://github.com/phpstan/phpstan/releases/tag/2.2.11) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.11](https://github.com/phpstan/turbo-ext/releases/tag/2.2.11) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.4](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.4) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.12](https://github.com/phpstan/phpstan/releases/tag/2.2.12) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.12](https://github.com/phpstan/turbo-ext/releases/tag/2.2.12) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.0) (3 days ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - [0.10.0](https://github.com/PHPantom-dev/phpantom_lsp/releases/tag/0.10.0) (1 week ago)
