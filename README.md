@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (2 weeks ago)
@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.37](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.37) (1 day ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.1) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.37](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.37) (2 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.1) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.13](https://github.com/phpstan/phpstan/releases/tag/2.2.13) (1 week ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.13](https://github.com/phpstan/turbo-ext/releases/tag/2.2.13) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (1 week ago)
