@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.14](https://github.com/phpstan/phpstan/releases/tag/2.2.14) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.14](https://github.com/phpstan/turbo-ext/releases/tag/2.2.14) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.37](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.37) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.1) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.13](https://github.com/phpstan/phpstan/releases/tag/2.2.13) (1 week ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.13](https://github.com/phpstan/turbo-ext/releases/tag/2.2.13) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10) (2 weeks ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - [0.10.0](https://github.com/PHPantom-dev/phpantom_lsp/releases/tag/0.10.0) (3 weeks ago)
