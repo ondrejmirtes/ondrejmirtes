@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.38](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.38) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.39](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.39) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.14](https://github.com/phpstan/phpstan/releases/tag/2.2.14) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.14](https://github.com/phpstan/turbo-ext/releases/tag/2.2.14) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.1) (5 days ago)
