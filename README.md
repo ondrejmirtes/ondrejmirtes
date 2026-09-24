@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) - [php-8.5.11](https://github.com/php/php-src/releases/tag/php-8.5.11) (today)
+- [php/php-src](https://github.com/php/php-src) - [php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.15](https://github.com/phpstan/phpstan/releases/tag/2.2.15) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.15](https://github.com/phpstan/turbo-ext/releases/tag/2.2.15) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.42](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.42) (1 day ago)
