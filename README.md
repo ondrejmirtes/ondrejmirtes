@@ -8,14 +8,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
-- [php/php-src](https://github.com/php/php-src) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
+- [php/php-src](https://github.com/php/php-src) (5 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 weeks ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) (1 month ago)
 
@@ -23,11 +23,11 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.16](https://github.com/phpstan/phpstan/releases/tag/2.2.16) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.16](https://github.com/phpstan/turbo-ext/releases/tag/2.2.16) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.43](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.43) (today)
-- [php/php-src](https://github.com/php/php-src) - [php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26) (1 day ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.2) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.16](https://github.com/phpstan/phpstan/releases/tag/2.2.16) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.16](https://github.com/phpstan/turbo-ext/releases/tag/2.2.16) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.43](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.43) (1 day ago)
+- [php/php-src](https://github.com/php/php-src) - [php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26) (2 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.2) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (3 weeks ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - [0.10.0](https://github.com/PHPantom-dev/phpantom_lsp/releases/tag/0.10.0) (1 month ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.5](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.5) (2 months ago)
