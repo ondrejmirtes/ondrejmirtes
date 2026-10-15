@@ -8,13 +8,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (5 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
@@ -23,14 +23,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.15](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.15) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (6 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.1](https://github.com/phpstan/turbo-ext/releases/tag/2.3.1) (6 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.15](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.15) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (1 week ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.1](https://github.com/phpstan/turbo-ext/releases/tag/2.3.1) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.1) (1 week ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - [0.11.1](https://github.com/PHPantom-dev/phpantom_lsp/releases/tag/0.11.1) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.0](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.0) (1 week ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.1](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.1) (1 week ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.1](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.1) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.6](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.6) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.43](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.43) (2 weeks ago)
 
