@@ -8,6 +8,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [nunomaduro/dev-null.sh](https://github.com/nunomaduro/dev-null.sh) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -17,7 +18,6 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 weeks ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 weeks ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
 
 ---
 
