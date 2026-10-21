@@ -11,7 +11,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
-- [nunomaduro/dev-null.sh](https://github.com/nunomaduro/dev-null.sh) (4 days ago)
+- [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
