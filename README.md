@@ -8,10 +8,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) (6 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
