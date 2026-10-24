@@ -8,14 +8,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 day ago)
-- [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (2 days ago)
+- [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 weeks ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (3 weeks ago)
 
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) - [php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12) (2 days ago)
+- [php/php-src](https://github.com/php/php-src) - [php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.15](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.15) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (2 weeks ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.1](https://github.com/phpstan/turbo-ext/releases/tag/2.3.1) (2 weeks ago)
