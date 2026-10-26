@@ -8,13 +8,13 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [ondrejmirtes/phplrt-runtime](https://github.com/ondrejmirtes/phplrt-runtime) (today)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [ondrejmirtes/ondrej.mirtes.cz](https://github.com/ondrejmirtes/ondrej.mirtes.cz) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
@@ -23,7 +23,7 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.7](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.7) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.8](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.8) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.2](https://github.com/phpstan/phpstan/releases/tag/2.3.2) (2 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.2](https://github.com/phpstan/turbo-ext/releases/tag/2.3.2) (2 days ago)
