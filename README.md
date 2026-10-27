@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.3](https://github.com/phpstan/phpstan/releases/tag/2.3.3) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.3](https://github.com/phpstan/turbo-ext/releases/tag/2.3.3) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.8](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.8) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.2](https://github.com/phpstan/phpstan/releases/tag/2.3.2) (3 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.2](https://github.com/phpstan/turbo-ext/releases/tag/2.3.2) (3 days ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.20.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.20.0) (5 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12) (6 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.15](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.15) (2 weeks ago)
