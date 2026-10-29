@@ -8,27 +8,27 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [rectorphp/rector-doctrine](https://github.com/rectorphp/rector-doctrine) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
+- [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.4](https://github.com/phpstan/phpstan/releases/tag/2.3.4) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.4](https://github.com/phpstan/turbo-ext/releases/tag/2.3.4) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.0) (today)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.44](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.44) (today)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (2 days ago)
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.20.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.20.0) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.4](https://github.com/phpstan/phpstan/releases/tag/2.3.4) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.4](https://github.com/phpstan/turbo-ext/releases/tag/2.3.4) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.0) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.44](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.44) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (3 days ago)
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.20.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.20.0) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.15](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.15) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.1) (3 weeks ago)
