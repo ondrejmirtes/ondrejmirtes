@@ -9,14 +9,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-doctrine](https://github.com/rectorphp/rector-doctrine) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
 - [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 day ago)
 
 ---
