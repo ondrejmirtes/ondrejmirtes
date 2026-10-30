@@ -8,15 +8,15 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-doctrine](https://github.com/rectorphp/rector-doctrine) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
-- [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (2 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
+- [rectorphp/rector-doctrine](https://github.com/rectorphp/rector-doctrine) (1 day ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (2 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 days ago)
 
 ---
