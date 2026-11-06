@@ -8,23 +8,23 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) (3 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.2.3](https://github.com/twigstan/twigstan/releases/tag/0.2.3) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.1) (1 day ago)
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.2.2](https://github.com/twigstan/twigstan/releases/tag/0.2.2) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.5](https://github.com/phpstan/turbo-ext/releases/tag/2.3.5) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.1) (4 days ago)
