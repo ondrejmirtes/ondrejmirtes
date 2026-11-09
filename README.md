@@ -8,30 +8,30 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (6 days ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (6 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) (3 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (4 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.2) (2 days ago)
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.2.3](https://github.com/twigstan/twigstan/releases/tag/0.2.3) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (5 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.5](https://github.com/phpstan/turbo-ext/releases/tag/2.3.5) (5 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.1) (6 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.2) (3 days ago)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.2.3](https://github.com/twigstan/twigstan/releases/tag/0.2.3) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (6 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.5](https://github.com/phpstan/turbo-ext/releases/tag/2.3.5) (6 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.1) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.1](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.1) (1 week ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.21.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.21.0) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.44](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.44) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (1 week ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (2 weeks ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12) (2 weeks ago)
 
 ---
