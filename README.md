@@ -8,14 +8,14 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (3 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 days ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
+- [phpstan/tally](https://github.com/phpstan/tally) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (3 days ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 
@@ -23,10 +23,10 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.6](https://github.com/phpstan/phpstan/releases/tag/2.3.6) (4 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.6](https://github.com/phpstan/turbo-ext/releases/tag/2.3.6) (4 days ago)
+- [phpstan/tally](https://github.com/phpstan/tally) - [1.0.2](https://github.com/phpstan/tally/releases/tag/1.0.2) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.7](https://github.com/phpstan/phpstan/releases/tag/2.3.7) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.7](https://github.com/phpstan/turbo-ext/releases/tag/2.3.7) (today)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.2.8](https://github.com/twigstan/twigstan/releases/tag/0.2.8) (4 days ago)
-- [phpstan/tally](https://github.com/phpstan/tally) - [1.0.1](https://github.com/phpstan/tally/releases/tag/1.0.1) (5 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.4.45](https://github.com/phpstan/php-8-stubs/releases/tag/0.4.45) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.2) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.3) (1 week ago)
