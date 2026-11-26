@@ -8,9 +8,9 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
@@ -23,8 +23,8 @@ I maintain [PHPStan](https://github.com/phpstan/phpstan) and [related packages](
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.4) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.2](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.2) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.3) (2 days ago)
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - [1.1.0](https://github.com/PHPantom-dev/phpantom_lsp/releases/tag/1.1.0) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.2) (3 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.6](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.6) (3 days ago)
